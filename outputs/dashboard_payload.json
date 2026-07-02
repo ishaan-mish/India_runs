@@ -1,0 +1,4029 @@
+{
+  "generated_at": "2026-07-02T18:00:50.143959Z",
+  "job": {
+    "title": "Senior AI Engineer \u2014 Founding Team",
+    "company": "Redrob AI",
+    "location": "Pune/Noida Hybrid",
+    "focus": [
+      "embeddings",
+      "retrieval",
+      "ranking",
+      "vector search",
+      "production Python",
+      "evaluation frameworks",
+      "product shipping"
+    ]
+  },
+  "weights": {
+    "retrieval": 0.155,
+    "vector": 0.105,
+    "ranking": 0.155,
+    "production": 0.16,
+    "python": 0.09,
+    "llm": 0.085,
+    "shipping": 0.085,
+    "lexical_jd": 0.06,
+    "experience": 0.045,
+    "behavior": 0.06
+  },
+  "groups": {
+    "retrieval": {
+      "label": "Retrieval & Matching",
+      "lane": "Retrieval Systems Lead"
+    },
+    "vector": {
+      "label": "Vector Search Infra",
+      "lane": "Vector Infrastructure Builder"
+    },
+    "ranking": {
+      "label": "Ranking & Evaluation",
+      "lane": "Ranking Evaluation Lead"
+    },
+    "production": {
+      "label": "Production ML",
+      "lane": "Production ML Engineer"
+    },
+    "python": {
+      "label": "Python Systems",
+      "lane": "Python Systems Engineer"
+    },
+    "llm": {
+      "label": "LLM Systems",
+      "lane": "LLM Product Engineer"
+    },
+    "shipping": {
+      "label": "Product Shipping",
+      "lane": "Product-Minded Shipper"
+    }
+  },
+  "team_lanes": [
+    "Ranking Core Owner",
+    "Retrieval Infra Owner",
+    "ML Platform Owner",
+    "LLM Product Owner",
+    "Recruiter Workflow Owner"
+  ],
+  "candidates": [
+    {
+      "candidate_id": "CAND_0000031",
+      "rank": 1,
+      "score": 59.553353,
+      "reasoning": "6.0 years as Recommendation Systems Engineer with strongest evidence in Production ML, Retrieval & Matching; profile also lists Go, MLflow, FAISS. Good Redrob fit because technical evidence, availability signals, and practical outreach fit are aligned.",
+      "name": "Ela Singh",
+      "headline": "Recommendation Systems Engineer | Search, Ranking & Retrieval",
+      "location": "Hyderabad, Telangana",
+      "country": "India",
+      "years_experience": 6.0,
+      "current_title": "Recommendation Systems Engineer",
+      "current_company": "Swiggy",
+      "salary_mid_lpa": 43.75,
+      "notice_days": 60,
+      "preferred_work_mode": "flexible",
+      "role_lane": "Production ML Engineer",
+      "potential": 67,
+      "chemistry": 70,
+      "company_to_candidate": 91,
+      "candidate_to_company": 56,
+      "group_scores": {
+        "retrieval": 65.19,
+        "vector": 48.31,
+        "ranking": 46.32,
+        "production": 73.09,
+        "python": 31.93,
+        "llm": 59.05,
+        "shipping": 59.49
+      },
+      "behavior_score": 72.95,
+      "lexical_jd_score": 53.09,
+      "experience_score": 98.24,
+      "risk_penalty": 2.0,
+      "risk_flags": [
+        "verification gap"
+      ],
+      "strengths": [
+        "Production ML evidence",
+        "Retrieval & Matching evidence",
+        "Product Shipping evidence",
+        "LLM Systems evidence",
+        "Vector Search Infra evidence"
+      ],
+      "concerns": [],
+      "skills": [
+        "Go",
+        "MLflow",
+        "FAISS",
+        "Pinecone",
+        "Angular",
+        "Image Classification",
+        "Machine Learning",
+        "Speech Recognition",
+        "BentoML",
+        "MLOps",
+        "Embeddings",
+        "Information Retrieval",
+        "Hugging Face Transformers",
+        "Feature Engineering",
+        "Sentence Transformers",
+        "scikit-learn",
+        "Marketing"
+      ],
+      "verified": {
+        "email": false,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": 32.6,
+        "open_to_work": true,
+        "response_rate": 0.91
+      },
+      "interview_proxy": {
+        "Communication": 86,
+        "Technical Depth": 62,
+        "Role Clarity": 56,
+        "Recruiter Readiness": 73
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 54.97,
+        "Retrieval Infra Owner": 57.03,
+        "ML Platform Owner": 57.54,
+        "LLM Product Owner": 57.59,
+        "Recruiter Workflow Owner": 57.43
+      }
+    },
+    {
+      "candidate_id": "CAND_0000001",
+      "rank": 2,
+      "score": 48.78959,
+      "reasoning": "6.9 years as Backend Engineer with strongest evidence in Production ML, Python Systems; profile also lists Tailwind, NLP, Image Classification. Good Redrob fit because technical evidence, availability signals, and practical outreach fit are aligned.",
+      "name": "Ira Vora",
+      "headline": "Backend Engineer | SQL, Spark, Cloud",
+      "location": "Toronto",
+      "country": "Canada",
+      "years_experience": 6.9,
+      "current_title": "Backend Engineer",
+      "current_company": "Mindtree",
+      "salary_mid_lpa": 27.4,
+      "notice_days": 60,
+      "preferred_work_mode": "onsite",
+      "role_lane": "Production ML Engineer",
+      "potential": 59,
+      "chemistry": 59,
+      "company_to_candidate": 77,
+      "candidate_to_company": 44,
+      "group_scores": {
+        "retrieval": 33.27,
+        "vector": 31.03,
+        "ranking": 13.18,
+        "production": 77.46,
+        "python": 54.07,
+        "llm": 52.83,
+        "shipping": 52.09
+      },
+      "behavior_score": 64.91,
+      "lexical_jd_score": 28.13,
+      "experience_score": 96.48,
+      "risk_penalty": 0,
+      "risk_flags": [],
+      "strengths": [
+        "Production ML evidence",
+        "Python Systems evidence",
+        "LLM Systems evidence",
+        "Product Shipping evidence",
+        "verified contact channels"
+      ],
+      "concerns": [],
+      "skills": [
+        "Tailwind",
+        "NLP",
+        "Image Classification",
+        "Fine-tuning LLMs",
+        "Weights & Biases",
+        "Speech Recognition",
+        "Photoshop",
+        "TTS",
+        "LoRA",
+        "Apache Beam",
+        "AWS",
+        "Flask",
+        "BentoML",
+        "Milvus",
+        "GANs",
+        "Statistical Modeling",
+        "GCP"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": 9.2,
+        "open_to_work": true,
+        "response_rate": 0.34
+      },
+      "interview_proxy": {
+        "Communication": 82,
+        "Technical Depth": 42,
+        "Role Clarity": 42,
+        "Recruiter Readiness": 65
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 39.19,
+        "Retrieval Infra Owner": 45.02,
+        "ML Platform Owner": 51.51,
+        "LLM Product Owner": 48.65,
+        "Recruiter Workflow Owner": 46.38
+      }
+    },
+    {
+      "candidate_id": "CAND_0000027",
+      "rank": 3,
+      "score": 40.90619,
+      "reasoning": "3.9 years as DevOps Engineer with strongest evidence in Production ML, Python Systems; profile also lists Docker, YOLO, PEFT. Good Redrob fit because technical evidence, availability signals, and practical outreach fit are aligned.",
+      "name": "Avni Pandey",
+      "headline": "DevOps Engineer | Cloud & DevOps",
+      "location": "Kolkata, West Bengal",
+      "country": "India",
+      "years_experience": 3.9,
+      "current_title": "DevOps Engineer",
+      "current_company": "Infosys",
+      "salary_mid_lpa": 19.05,
+      "notice_days": 90,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Production ML Engineer",
+      "potential": 50,
+      "chemistry": 57,
+      "company_to_candidate": 88,
+      "candidate_to_company": 37,
+      "group_scores": {
+        "retrieval": 49.64,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 71.93,
+        "python": 52.09,
+        "llm": 36.06,
+        "shipping": 46.32
+      },
+      "behavior_score": 62.37,
+      "lexical_jd_score": 28.46,
+      "experience_score": 81.42,
+      "risk_penalty": 2.0,
+      "risk_flags": [
+        "verification gap"
+      ],
+      "strengths": [
+        "Production ML evidence",
+        "Python Systems evidence",
+        "Retrieval & Matching evidence",
+        "Product Shipping evidence",
+        "LinkedIn connected"
+      ],
+      "concerns": [],
+      "skills": [
+        "Docker",
+        "YOLO",
+        "PEFT",
+        "Webpack",
+        "Data Science",
+        "AWS",
+        "Java",
+        "Angular",
+        "Databricks",
+        "ETL",
+        "Marketing",
+        "Information Retrieval",
+        "Weights & Biases",
+        "Terraform",
+        "SAP",
+        "Illustrator"
+      ],
+      "verified": {
+        "email": false,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": 38.6,
+        "open_to_work": true,
+        "response_rate": 0.58
+      },
+      "interview_proxy": {
+        "Communication": 79,
+        "Technical Depth": 41,
+        "Role Clarity": 38,
+        "Recruiter Readiness": 62
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 36.79,
+        "Retrieval Infra Owner": 38.31,
+        "ML Platform Owner": 47.17,
+        "LLM Product Owner": 43.83,
+        "Recruiter Workflow Owner": 42.57
+      }
+    },
+    {
+      "candidate_id": "CAND_0000015",
+      "rank": 4,
+      "score": 37.276327,
+      "reasoning": "5.4 years as Software Engineer with strongest evidence in Python Systems, Production ML; profile also lists PyTorch, Content Writing, Weights & Biases. Good Redrob fit because technical evidence, availability signals, and practical outreach fit are aligned.",
+      "name": "Rahul Agarwal",
+      "headline": "Software Engineer | Cloud & DevOps",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years_experience": 5.4,
+      "current_title": "Software Engineer",
+      "current_company": "Razorpay",
+      "salary_mid_lpa": 20.35,
+      "notice_days": 90,
+      "preferred_work_mode": "remote",
+      "role_lane": "Python Systems Engineer",
+      "potential": 50,
+      "chemistry": 54,
+      "company_to_candidate": 82,
+      "candidate_to_company": 31,
+      "group_scores": {
+        "retrieval": 22.8,
+        "vector": 22.07,
+        "ranking": 0.0,
+        "production": 56.58,
+        "python": 64.78,
+        "llm": 0.0,
+        "shipping": 55.73
+      },
+      "behavior_score": 63.57,
+      "lexical_jd_score": 24.57,
+      "experience_score": 94.8,
+      "risk_penalty": 0,
+      "risk_flags": [],
+      "strengths": [
+        "Python Systems evidence",
+        "Production ML evidence",
+        "Product Shipping evidence",
+        "verified contact channels",
+        "available/open-to-work signal"
+      ],
+      "concerns": [],
+      "skills": [
+        "PyTorch",
+        "Content Writing",
+        "Weights & Biases",
+        "Qdrant",
+        "Sales",
+        "Figma",
+        "BigQuery",
+        "Computer Vision",
+        "Next.js",
+        "SEO"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": true,
+        "response_rate": 0.32
+      },
+      "interview_proxy": {
+        "Communication": 83,
+        "Technical Depth": 22,
+        "Role Clarity": 37,
+        "Recruiter Readiness": 64
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 30.3,
+        "Retrieval Infra Owner": 36.34,
+        "ML Platform Owner": 37.43,
+        "LLM Product Owner": 25.37,
+        "Recruiter Workflow Owner": 38.13
+      }
+    },
+    {
+      "candidate_id": "CAND_0000038",
+      "rank": 5,
+      "score": 35.496862,
+      "reasoning": "6.7 years as Java Developer with strongest evidence in Product Shipping, Python Systems; profile also lists Kubeflow, Django, Redux. Good Redrob fit because technical evidence, availability signals, and practical outreach fit are aligned.",
+      "name": "Myra Trivedi",
+      "headline": "Java Developer | Cloud & DevOps",
+      "location": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "years_experience": 6.7,
+      "current_title": "Java Developer",
+      "current_company": "Swiggy",
+      "salary_mid_lpa": 12.55,
+      "notice_days": 90,
+      "preferred_work_mode": "flexible",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 49,
+      "chemistry": 54,
+      "company_to_candidate": 88,
+      "candidate_to_company": 29,
+      "group_scores": {
+        "retrieval": 22.8,
+        "vector": 29.56,
+        "ranking": 0.0,
+        "production": 41.02,
+        "python": 59.91,
+        "llm": 0.0,
+        "shipping": 62.67
+      },
+      "behavior_score": 60.68,
+      "lexical_jd_score": 19.28,
+      "experience_score": 96.48,
+      "risk_penalty": 0,
+      "risk_flags": [],
+      "strengths": [
+        "Product Shipping evidence",
+        "Python Systems evidence",
+        "verified contact channels",
+        "available/open-to-work signal"
+      ],
+      "concerns": [],
+      "skills": [
+        "Kubeflow",
+        "Django",
+        "Redux",
+        "Weaviate",
+        "PowerPoint",
+        "Figma",
+        "Docker",
+        "GraphQL",
+        "Agile",
+        "MLOps",
+        "Azure"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": 37.8,
+        "open_to_work": true,
+        "response_rate": 0.2
+      },
+      "interview_proxy": {
+        "Communication": 85,
+        "Technical Depth": 18,
+        "Role Clarity": 37,
+        "Recruiter Readiness": 61
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 27.51,
+        "Retrieval Infra Owner": 35.45,
+        "ML Platform Owner": 31.68,
+        "LLM Product Owner": 22.47,
+        "Recruiter Workflow Owner": 37.51
+      }
+    },
+    {
+      "candidate_id": "CAND_0000035",
+      "rank": 6,
+      "score": 33.419926,
+      "reasoning": "4.3 years as Full Stack Developer with strongest evidence in Production ML, Python Systems; profile also lists Snowflake, BigQuery, Recommendation Systems. Ranked here after balancing fit score 33.4, hireability signal 51, and concern: not currently marked open to work.",
+      "name": "Vikram Verma",
+      "headline": "Full Stack Developer | Backend systems & APIs",
+      "location": "Hyderabad, Telangana",
+      "country": "India",
+      "years_experience": 4.3,
+      "current_title": "Full Stack Developer",
+      "current_company": "Globex Inc",
+      "salary_mid_lpa": 17.0,
+      "notice_days": 60,
+      "preferred_work_mode": "onsite",
+      "role_lane": "Production ML Engineer",
+      "potential": 42,
+      "chemistry": 52,
+      "company_to_candidate": 90,
+      "candidate_to_company": 31,
+      "group_scores": {
+        "retrieval": 32.34,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 78.95,
+        "python": 59.85,
+        "llm": 0.0,
+        "shipping": 37.21
+      },
+      "behavior_score": 50.78,
+      "lexical_jd_score": 24.51,
+      "experience_score": 84.89,
+      "risk_penalty": 4.0,
+      "risk_flags": [
+        "not marked open"
+      ],
+      "strengths": [
+        "Production ML evidence",
+        "Python Systems evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work"
+      ],
+      "skills": [
+        "Snowflake",
+        "BigQuery",
+        "Recommendation Systems",
+        "Data Pipelines",
+        "Docker",
+        "MongoDB",
+        "PostgreSQL",
+        "Sales",
+        "Kafka",
+        "Speech Recognition",
+        "BentoML",
+        "Go",
+        "Next.js",
+        "dbt"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.34
+      },
+      "interview_proxy": {
+        "Communication": 73,
+        "Technical Depth": 31,
+        "Role Clarity": 31,
+        "Recruiter Readiness": 51
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 34.07,
+        "Retrieval Infra Owner": 34.91,
+        "ML Platform Owner": 44.38,
+        "LLM Product Owner": 29.61,
+        "Recruiter Workflow Owner": 36.44
+      }
+    },
+    {
+      "candidate_id": "CAND_0000045",
+      "rank": 7,
+      "score": 29.525024,
+      "reasoning": "12.2 years as Project Manager with strongest evidence in Product Shipping, Production ML; profile also lists GCP, Sales, Redux. Good Redrob fit because technical evidence, availability signals, and practical outreach fit are aligned.",
+      "name": "Vikram Mittal",
+      "headline": "Project Manager | 12.2+ yrs experience",
+      "location": "Indore, Madhya Pradesh",
+      "country": "India",
+      "years_experience": 12.2,
+      "current_title": "Project Manager",
+      "current_company": "Initech",
+      "salary_mid_lpa": 11.0,
+      "notice_days": 60,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 42,
+      "chemistry": 55,
+      "company_to_candidate": 94,
+      "candidate_to_company": 23,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 22.8,
+        "production": 43.62,
+        "python": 39.44,
+        "llm": 0.0,
+        "shipping": 58.57
+      },
+      "behavior_score": 68.27,
+      "lexical_jd_score": 19.45,
+      "experience_score": 65.75,
+      "risk_penalty": 0,
+      "risk_flags": [],
+      "strengths": [
+        "Product Shipping evidence",
+        "LinkedIn connected",
+        "verified contact channels",
+        "available/open-to-work signal"
+      ],
+      "concerns": [],
+      "skills": [
+        "GCP",
+        "Sales",
+        "Redux",
+        "PostgreSQL",
+        "Airflow",
+        "SAP"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": -1,
+        "open_to_work": true,
+        "response_rate": 0.62
+      },
+      "interview_proxy": {
+        "Communication": 85,
+        "Technical Depth": 17,
+        "Role Clarity": 33,
+        "Recruiter Readiness": 68
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 26.98,
+        "Retrieval Infra Owner": 16.97,
+        "ML Platform Owner": 29.55,
+        "LLM Product Owner": 17.12,
+        "Recruiter Workflow Owner": 34.94
+      }
+    },
+    {
+      "candidate_id": "CAND_0000010",
+      "rank": 8,
+      "score": 28.550885,
+      "reasoning": "4.6 years as Data Engineer with strongest evidence in Product Shipping, Python Systems; profile also lists GCP, Spring Boot, Kubeflow. Ranked here after balancing fit score 28.6, hireability signal 57, and concern: not currently marked open to work.",
+      "name": "Aarav Kapoor",
+      "headline": "Data Engineer | Data pipelines & analytics",
+      "location": "London",
+      "country": "UK",
+      "years_experience": 4.6,
+      "current_title": "Data Engineer",
+      "current_company": "Ola",
+      "salary_mid_lpa": 22.5,
+      "notice_days": 120,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 39,
+      "chemistry": 44,
+      "company_to_candidate": 69,
+      "candidate_to_company": 32,
+      "group_scores": {
+        "retrieval": 15.68,
+        "vector": 23.59,
+        "ranking": 37.21,
+        "production": 40.69,
+        "python": 46.75,
+        "llm": 8.41,
+        "shipping": 53.43
+      },
+      "behavior_score": 56.88,
+      "lexical_jd_score": 27.01,
+      "experience_score": 88.18,
+      "risk_penalty": 9.0,
+      "risk_flags": [
+        "not marked open",
+        "long notice"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "Python Systems evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Notice period is 120 days"
+      ],
+      "skills": [
+        "GCP",
+        "Spring Boot",
+        "Kubeflow",
+        "Java",
+        "GANs",
+        "Figma",
+        "Elasticsearch",
+        "OpenCV",
+        "CNN",
+        "Azure",
+        "Prompt Engineering",
+        "Object Detection",
+        "MLOps",
+        "Python",
+        "BM25",
+        "Weights & Biases",
+        "Sales"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": 33.7,
+        "open_to_work": false,
+        "response_rate": 0.4
+      },
+      "interview_proxy": {
+        "Communication": 74,
+        "Technical Depth": 26,
+        "Role Clarity": 37,
+        "Recruiter Readiness": 57
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 35.63,
+        "Retrieval Infra Owner": 29.21,
+        "ML Platform Owner": 35.19,
+        "LLM Product Owner": 25.22,
+        "Recruiter Workflow Owner": 39.06
+      }
+    },
+    {
+      "candidate_id": "CAND_0000032",
+      "rank": 9,
+      "score": 28.480042,
+      "reasoning": "8.1 years as .NET Developer with strongest evidence in Production ML, Python Systems; profile also lists Speech Recognition, Project Management, REST APIs. Ranked here after balancing fit score 28.5, hireability signal 48, and concern: not currently marked open to work.",
+      "name": "Pranav Agarwal",
+      "headline": ".NET Developer | Full-stack development",
+      "location": "Gurgaon, Haryana",
+      "country": "India",
+      "years_experience": 8.1,
+      "current_title": ".NET Developer",
+      "current_company": "Cognizant",
+      "salary_mid_lpa": 17.0,
+      "notice_days": 150,
+      "preferred_work_mode": "flexible",
+      "role_lane": "Production ML Engineer",
+      "potential": 40,
+      "chemistry": 44,
+      "company_to_candidate": 76,
+      "candidate_to_company": 34,
+      "group_scores": {
+        "retrieval": 32.71,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 74.09,
+        "python": 66.41,
+        "llm": 0.0,
+        "shipping": 62.29
+      },
+      "behavior_score": 47.78,
+      "lexical_jd_score": 29.36,
+      "experience_score": 96.48,
+      "risk_penalty": 11.0,
+      "risk_flags": [
+        "not marked open",
+        "long notice",
+        "verification gap"
+      ],
+      "strengths": [
+        "Production ML evidence",
+        "Python Systems evidence",
+        "Product Shipping evidence"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Notice period is 150 days"
+      ],
+      "skills": [
+        "Speech Recognition",
+        "Project Management",
+        "REST APIs",
+        "CSS",
+        "Embeddings",
+        "Hadoop",
+        "Spark",
+        "Python",
+        "Data Pipelines",
+        "OpenCV"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.69
+      },
+      "interview_proxy": {
+        "Communication": 82,
+        "Technical Depth": 30,
+        "Role Clarity": 41,
+        "Recruiter Readiness": 48
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 36.71,
+        "Retrieval Infra Owner": 36.34,
+        "ML Platform Owner": 45.46,
+        "LLM Product Owner": 30.84,
+        "Recruiter Workflow Owner": 44.91
+      }
+    },
+    {
+      "candidate_id": "CAND_0000026",
+      "rank": 10,
+      "score": 26.689164,
+      "reasoning": "6.8 years as Graphic Designer with strongest evidence in Product Shipping, Production ML; profile also lists Apache Beam, Kubeflow, Scrum. Ranked here after balancing fit score 26.7, hireability signal 63, and concern: not currently marked open to work.",
+      "name": "Neha Rao",
+      "headline": "Graphic Designer | 6.8+ yrs experience",
+      "location": "Kochi, Kerala",
+      "country": "India",
+      "years_experience": 6.8,
+      "current_title": "Graphic Designer",
+      "current_company": "Initech",
+      "salary_mid_lpa": 12.55,
+      "notice_days": 30,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 40,
+      "chemistry": 53,
+      "company_to_candidate": 97,
+      "candidate_to_company": 25,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 22.8,
+        "production": 51.86,
+        "python": 17.57,
+        "llm": 22.8,
+        "shipping": 65.77
+      },
+      "behavior_score": 62.77,
+      "lexical_jd_score": 23.09,
+      "experience_score": 96.48,
+      "risk_penalty": 6.0,
+      "risk_flags": [
+        "not marked open",
+        "verification gap"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "Production ML evidence",
+        "LinkedIn connected"
+      ],
+      "concerns": [
+        "Not currently marked open to work"
+      ],
+      "skills": [
+        "Apache Beam",
+        "Kubeflow",
+        "Scrum",
+        "ETL",
+        "Django",
+        "Docker",
+        "Airflow",
+        "Kubernetes"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": true,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.59
+      },
+      "interview_proxy": {
+        "Communication": 86,
+        "Technical Depth": 22,
+        "Role Clarity": 37,
+        "Recruiter Readiness": 63
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 26.12,
+        "Retrieval Infra Owner": 16.43,
+        "ML Platform Owner": 31.12,
+        "LLM Product Owner": 23.42,
+        "Recruiter Workflow Owner": 37.89
+      }
+    },
+    {
+      "candidate_id": "CAND_0000021",
+      "rank": 11,
+      "score": 26.385266,
+      "reasoning": "14.5 years as Project Manager with strongest evidence in Product Shipping, Production ML; profile also lists Hadoop, PostgreSQL, Kafka. Ranked here after balancing fit score 26.4, hireability signal 54, and concern: activity dates need verification before outreach.",
+      "name": "Rahul Joshi",
+      "headline": "Project Manager | AI enthusiast | Building with LLMs",
+      "location": "Bhubaneswar, Odisha",
+      "country": "India",
+      "years_experience": 14.5,
+      "current_title": "Project Manager",
+      "current_company": "Wipro",
+      "salary_mid_lpa": 17.65,
+      "notice_days": 60,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 30,
+      "chemistry": 51,
+      "company_to_candidate": 94,
+      "candidate_to_company": 40,
+      "group_scores": {
+        "retrieval": 44.09,
+        "vector": 35.67,
+        "ranking": 22.8,
+        "production": 47.68,
+        "python": 41.05,
+        "llm": 31.0,
+        "shipping": 58.57
+      },
+      "behavior_score": 53.91,
+      "lexical_jd_score": 39.51,
+      "experience_score": 18.9,
+      "risk_penalty": 17.0,
+      "risk_flags": [
+        "timeline anomaly",
+        "not marked open",
+        "seniority mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "Production ML evidence",
+        "LinkedIn connected",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Activity dates need verification before outreach",
+        "Not currently marked open to work"
+      ],
+      "skills": [
+        "Hadoop",
+        "PostgreSQL",
+        "Kafka",
+        "Microservices",
+        "AWS",
+        "TypeScript",
+        "ETL",
+        "Spring Boot",
+        "Recommendation Systems",
+        "Fine-tuning LLMs",
+        "Prompt Engineering",
+        "LangChain",
+        "Pinecone",
+        "Vector Search",
+        "Embeddings",
+        "FAISS"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": 6.4,
+        "open_to_work": false,
+        "response_rate": 0.49
+      },
+      "interview_proxy": {
+        "Communication": 82,
+        "Technical Depth": 38,
+        "Role Clarity": 45,
+        "Recruiter Readiness": 54
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 38.52,
+        "Retrieval Infra Owner": 42.62,
+        "ML Platform Owner": 40.49,
+        "LLM Product Owner": 38.24,
+        "Recruiter Workflow Owner": 44.67
+      }
+    },
+    {
+      "candidate_id": "CAND_0000048",
+      "rank": 12,
+      "score": 26.23314,
+      "reasoning": "9.7 years as Mobile Developer with strongest evidence in Production ML, Product Shipping; profile also lists Hadoop, Terraform, Vue.js. Ranked here after balancing fit score 26.2, hireability signal 58, and concern: notice period is 120 days.",
+      "name": "Vihaan Saxena",
+      "headline": "Mobile Developer | Full-stack development",
+      "location": "Hyderabad, Telangana",
+      "country": "India",
+      "years_experience": 9.7,
+      "current_title": "Mobile Developer",
+      "current_company": "CRED",
+      "salary_mid_lpa": 19.6,
+      "notice_days": 120,
+      "preferred_work_mode": "flexible",
+      "role_lane": "Production ML Engineer",
+      "potential": 37,
+      "chemistry": 47,
+      "company_to_candidate": 82,
+      "candidate_to_company": 27,
+      "group_scores": {
+        "retrieval": 28.12,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 56.34,
+        "python": 48.45,
+        "llm": 0.0,
+        "shipping": 52.09
+      },
+      "behavior_score": 57.86,
+      "lexical_jd_score": 23.63,
+      "experience_score": 89.13,
+      "risk_penalty": 7.0,
+      "risk_flags": [
+        "long notice",
+        "verification gap"
+      ],
+      "strengths": [
+        "Production ML evidence",
+        "Product Shipping evidence",
+        "Python Systems evidence",
+        "available/open-to-work signal"
+      ],
+      "concerns": [
+        "Notice period is 120 days"
+      ],
+      "skills": [
+        "Hadoop",
+        "Terraform",
+        "Vue.js",
+        "Content Writing",
+        "AWS"
+      ],
+      "verified": {
+        "email": false,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": true,
+        "response_rate": 0.65
+      },
+      "interview_proxy": {
+        "Communication": 80,
+        "Technical Depth": 24,
+        "Role Clarity": 33,
+        "Recruiter Readiness": 58
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 28.88,
+        "Retrieval Infra Owner": 28.64,
+        "ML Platform Owner": 34.94,
+        "LLM Product Owner": 24.07,
+        "Recruiter Workflow Owner": 36.07
+      }
+    },
+    {
+      "candidate_id": "CAND_0000044",
+      "rank": 13,
+      "score": 26.21207,
+      "reasoning": "5.7 years as Frontend Engineer with strongest evidence in Python Systems, Production ML; profile also lists Hadoop, JavaScript, Databricks. Ranked here after balancing fit score 26.2, hireability signal 45, and concern: not currently marked open to work.",
+      "name": "Vihaan Naidu",
+      "headline": "Frontend Engineer | Backend systems & APIs",
+      "location": "Indore, Madhya Pradesh",
+      "country": "India",
+      "years_experience": 5.7,
+      "current_title": "Frontend Engineer",
+      "current_company": "Tech Mahindra",
+      "salary_mid_lpa": 10.55,
+      "notice_days": 90,
+      "preferred_work_mode": "remote",
+      "role_lane": "Python Systems Engineer",
+      "potential": 37,
+      "chemistry": 44,
+      "company_to_candidate": 82,
+      "candidate_to_company": 26,
+      "group_scores": {
+        "retrieval": 22.8,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 51.03,
+        "python": 67.13,
+        "llm": 0.0,
+        "shipping": 46.32
+      },
+      "behavior_score": 44.56,
+      "lexical_jd_score": 20.9,
+      "experience_score": 96.48,
+      "risk_penalty": 6.0,
+      "risk_flags": [
+        "not marked open",
+        "verification gap"
+      ],
+      "strengths": [
+        "Python Systems evidence",
+        "Production ML evidence",
+        "Product Shipping evidence"
+      ],
+      "concerns": [
+        "Not currently marked open to work"
+      ],
+      "skills": [
+        "Hadoop",
+        "JavaScript",
+        "Databricks",
+        "Python",
+        "dbt",
+        "CI/CD"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": 6.5,
+        "open_to_work": false,
+        "response_rate": 0.66
+      },
+      "interview_proxy": {
+        "Communication": 75,
+        "Technical Depth": 21,
+        "Role Clarity": 31,
+        "Recruiter Readiness": 45
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 28.69,
+        "Retrieval Infra Owner": 27.88,
+        "ML Platform Owner": 35.4,
+        "LLM Product Owner": 24.43,
+        "Recruiter Workflow Owner": 34.28
+      }
+    },
+    {
+      "candidate_id": "CAND_0000043",
+      "rank": 14,
+      "score": 25.763133,
+      "reasoning": "8.3 years as Cloud Engineer with strongest evidence in Product Shipping, Production ML; profile also lists Elasticsearch, OpenSearch, Airflow. Ranked here after balancing fit score 25.8, hireability signal 42, and concern: not currently marked open to work.",
+      "name": "Aarav Sen",
+      "headline": "Cloud Engineer | Full-stack development",
+      "location": "Chandigarh, Chandigarh",
+      "country": "India",
+      "years_experience": 8.3,
+      "current_title": "Cloud Engineer",
+      "current_company": "Swiggy",
+      "salary_mid_lpa": 13.75,
+      "notice_days": 120,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 38,
+      "chemistry": 42,
+      "company_to_candidate": 76,
+      "candidate_to_company": 33,
+      "group_scores": {
+        "retrieval": 8.41,
+        "vector": 39.3,
+        "ranking": 0.0,
+        "production": 62.04,
+        "python": 40.57,
+        "llm": 36.85,
+        "shipping": 68.11
+      },
+      "behavior_score": 42.4,
+      "lexical_jd_score": 26.9,
+      "experience_score": 94.8,
+      "risk_penalty": 13.0,
+      "risk_flags": [
+        "not marked open",
+        "long notice",
+        "low response"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "Production ML evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Notice period is 120 days",
+        "Recruiter response rate is weak"
+      ],
+      "skills": [
+        "Elasticsearch",
+        "OpenSearch",
+        "Airflow",
+        "Kubeflow",
+        "Fine-tuning LLMs",
+        "Haystack",
+        "OpenCV",
+        "TensorFlow",
+        "PEFT",
+        "LangChain",
+        "Weights & Biases",
+        "Reinforcement Learning",
+        "Deep Learning",
+        "Image Classification",
+        "Node.js",
+        "Project Management",
+        "Feature Engineering"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.04
+      },
+      "interview_proxy": {
+        "Communication": 83,
+        "Technical Depth": 24,
+        "Role Clarity": 42,
+        "Recruiter Readiness": 42
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 25.68,
+        "Retrieval Infra Owner": 36.46,
+        "ML Platform Owner": 37.34,
+        "LLM Product Owner": 32.71,
+        "Recruiter Workflow Owner": 40.7
+      }
+    },
+    {
+      "candidate_id": "CAND_0000014",
+      "rank": 15,
+      "score": 24.351886,
+      "reasoning": "8.4 years as Frontend Engineer with strongest evidence in Vector Search Infra, Product Shipping; profile also lists FAISS, BigQuery, React. Ranked here after balancing fit score 24.4, hireability signal 62, and concern: not currently marked open to work.",
+      "name": "Atharv Joshi",
+      "headline": "Frontend Engineer | Full-stack development",
+      "location": "Hyderabad, Telangana",
+      "country": "India",
+      "years_experience": 8.4,
+      "current_title": "Frontend Engineer",
+      "current_company": "Zomato",
+      "salary_mid_lpa": 19.5,
+      "notice_days": 90,
+      "preferred_work_mode": "remote",
+      "role_lane": "Vector Infrastructure Builder",
+      "potential": 37,
+      "chemistry": 47,
+      "company_to_candidate": 82,
+      "candidate_to_company": 21,
+      "group_scores": {
+        "retrieval": 8.41,
+        "vector": 48.36,
+        "ranking": 0.0,
+        "production": 28.12,
+        "python": 28.12,
+        "llm": 0.0,
+        "shipping": 46.32
+      },
+      "behavior_score": 62.38,
+      "lexical_jd_score": 23.58,
+      "experience_score": 96.48,
+      "risk_penalty": 4.0,
+      "risk_flags": [
+        "not marked open"
+      ],
+      "strengths": [
+        "Vector Search Infra evidence",
+        "Product Shipping evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work"
+      ],
+      "skills": [
+        "FAISS",
+        "BigQuery",
+        "React",
+        "OpenSearch",
+        "OpenCV",
+        "YOLO",
+        "SAP",
+        "SEO",
+        "REST APIs",
+        "GANs",
+        "dbt",
+        "Photoshop",
+        "Tailwind"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.8
+      },
+      "interview_proxy": {
+        "Communication": 79,
+        "Technical Depth": 10,
+        "Role Clarity": 29,
+        "Recruiter Readiness": 62
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 15.65,
+        "Retrieval Infra Owner": 29.78,
+        "ML Platform Owner": 18.58,
+        "LLM Product Owner": 12.14,
+        "Recruiter Workflow Owner": 24.41
+      }
+    },
+    {
+      "candidate_id": "CAND_0000025",
+      "rank": 16,
+      "score": 22.945208,
+      "reasoning": "7.3 years as Frontend Engineer with strongest evidence in Production ML, Product Shipping; profile also lists JavaScript, Spark, GCP. Ranked here after balancing fit score 22.9, hireability signal 70, and concern: notice period is 120 days.",
+      "name": "Anika Kumar",
+      "headline": "Frontend Engineer | Cloud & DevOps",
+      "location": "Vizag, Andhra Pradesh",
+      "country": "India",
+      "years_experience": 7.3,
+      "current_title": "Frontend Engineer",
+      "current_company": "Tech Mahindra",
+      "salary_mid_lpa": 24.75,
+      "notice_days": 120,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Production ML Engineer",
+      "potential": 35,
+      "chemistry": 48,
+      "company_to_candidate": 82,
+      "candidate_to_company": 20,
+      "group_scores": {
+        "retrieval": 8.41,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 49.71,
+        "python": 40.57,
+        "llm": 0.0,
+        "shipping": 46.32
+      },
+      "behavior_score": 70.16,
+      "lexical_jd_score": 20.33,
+      "experience_score": 94.8,
+      "risk_penalty": 5.0,
+      "risk_flags": [
+        "long notice"
+      ],
+      "strengths": [
+        "Production ML evidence",
+        "Product Shipping evidence",
+        "LinkedIn connected",
+        "verified contact channels",
+        "available/open-to-work signal"
+      ],
+      "concerns": [
+        "Notice period is 120 days"
+      ],
+      "skills": [
+        "JavaScript",
+        "Spark",
+        "GCP",
+        "TypeScript",
+        "LangChain",
+        "Apache Flink",
+        "ETL",
+        "Redis",
+        "Data Pipelines"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": -1,
+        "open_to_work": true,
+        "response_rate": 0.74
+      },
+      "interview_proxy": {
+        "Communication": 81,
+        "Technical Depth": 15,
+        "Role Clarity": 28,
+        "Recruiter Readiness": 70
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 21.28,
+        "Retrieval Infra Owner": 20.11,
+        "ML Platform Owner": 28.16,
+        "LLM Product Owner": 17.34,
+        "Recruiter Workflow Owner": 29.11
+      }
+    },
+    {
+      "candidate_id": "CAND_0000050",
+      "rank": 17,
+      "score": 22.496084,
+      "reasoning": "13.5 years as Business Analyst with strongest evidence in Product Shipping, Production ML; profile also lists gRPC, SEO, Feature Engineering. Ranked here after balancing fit score 22.5, hireability signal 49, and concern: not currently marked open to work.",
+      "name": "Naina Bose",
+      "headline": "Business Analyst | Helping teams scale",
+      "location": "Gurgaon, Haryana",
+      "country": "India",
+      "years_experience": 13.5,
+      "current_title": "Business Analyst",
+      "current_company": "Infosys",
+      "salary_mid_lpa": 15.25,
+      "notice_days": 90,
+      "preferred_work_mode": "onsite",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 34,
+      "chemistry": 45,
+      "company_to_candidate": 84,
+      "candidate_to_company": 21,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 53.1,
+        "python": 22.8,
+        "llm": 22.8,
+        "shipping": 56.58
+      },
+      "behavior_score": 49.25,
+      "lexical_jd_score": 22.79,
+      "experience_score": 60.9,
+      "risk_penalty": 4.0,
+      "risk_flags": [
+        "not marked open"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "Production ML evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work"
+      ],
+      "skills": [
+        "gRPC",
+        "SEO",
+        "Feature Engineering",
+        "Marketing",
+        "Data Pipelines",
+        "Kafka",
+        "Excel"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": 44.7,
+        "open_to_work": false,
+        "response_rate": 0.42
+      },
+      "interview_proxy": {
+        "Communication": 80,
+        "Technical Depth": 17,
+        "Role Clarity": 32,
+        "Recruiter Readiness": 49
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 18.41,
+        "Retrieval Infra Owner": 16.75,
+        "ML Platform Owner": 27.83,
+        "LLM Product Owner": 21.7,
+        "Recruiter Workflow Owner": 31.38
+      }
+    },
+    {
+      "candidate_id": "CAND_0000042",
+      "rank": 18,
+      "score": 20.190079,
+      "reasoning": "5.0 years as HR Manager with strongest evidence in Product Shipping; profile also lists Project Management, gRPC, Marketing. Ranked here after balancing fit score 20.2, hireability signal 59, and concern: not currently marked open to work.",
+      "name": "Riya Mukherjee",
+      "headline": "HR Manager | 5.0+ yrs experience",
+      "location": "Berlin",
+      "country": "Germany",
+      "years_experience": 5.0,
+      "current_title": "HR Manager",
+      "current_company": "Wayne Enterprises",
+      "salary_mid_lpa": 14.65,
+      "notice_days": 30,
+      "preferred_work_mode": "flexible",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 37,
+      "chemistry": 47,
+      "company_to_candidate": 90,
+      "candidate_to_company": 17,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 22.8,
+        "python": 22.8,
+        "llm": 22.8,
+        "shipping": 72.47
+      },
+      "behavior_score": 59.41,
+      "lexical_jd_score": 21.77,
+      "experience_score": 96.48,
+      "risk_penalty": 4.0,
+      "risk_flags": [
+        "not marked open"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work"
+      ],
+      "skills": [
+        "Project Management",
+        "gRPC",
+        "Marketing",
+        "SAP",
+        "Illustrator",
+        "Node.js",
+        "YOLO",
+        "Tailwind",
+        "CSS",
+        "Figma"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.58
+      },
+      "interview_proxy": {
+        "Communication": 88,
+        "Technical Depth": 9,
+        "Role Clarity": 35,
+        "Recruiter Readiness": 59
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 14.54,
+        "Retrieval Infra Owner": 11.64,
+        "ML Platform Owner": 18.48,
+        "LLM Product Owner": 17.49,
+        "Recruiter Workflow Owner": 31.93
+      }
+    },
+    {
+      "candidate_id": "CAND_0000011",
+      "rank": 19,
+      "score": 20.053307,
+      "reasoning": "2.0 years as QA Engineer with strongest evidence in Product Shipping, Production ML; profile also lists Recommendation Systems, Scrum, FastAPI. Ranked here after balancing fit score 20.1, hireability signal 55, and concern: not currently marked open to work.",
+      "name": "Deepak Desai",
+      "headline": "QA Engineer | Cloud & DevOps",
+      "location": "Hyderabad, Telangana",
+      "country": "India",
+      "years_experience": 2.0,
+      "current_title": "QA Engineer",
+      "current_company": "Pied Piper",
+      "salary_mid_lpa": 14.7,
+      "notice_days": 90,
+      "preferred_work_mode": "flexible",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 25,
+      "chemistry": 46,
+      "company_to_candidate": 88,
+      "candidate_to_company": 32,
+      "group_scores": {
+        "retrieval": 46.72,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 47.7,
+        "python": 47.55,
+        "llm": 31.28,
+        "shipping": 55.4
+      },
+      "behavior_score": 54.9,
+      "lexical_jd_score": 22.72,
+      "experience_score": 33.84,
+      "risk_penalty": 16.0,
+      "risk_flags": [
+        "not marked open",
+        "too junior"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "Production ML evidence",
+        "Python Systems evidence",
+        "Retrieval & Matching evidence",
+        "LinkedIn connected"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Experience is materially below the senior range"
+      ],
+      "skills": [
+        "Recommendation Systems",
+        "Scrum",
+        "FastAPI",
+        "Hugging Face Transformers",
+        "AWS",
+        "Snowflake",
+        "Spring Boot",
+        "PostgreSQL",
+        "Kubeflow",
+        "Azure"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": 32.3,
+        "open_to_work": false,
+        "response_rate": 0.56
+      },
+      "interview_proxy": {
+        "Communication": 81,
+        "Technical Depth": 33,
+        "Role Clarity": 37,
+        "Recruiter Readiness": 55
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 32.0,
+        "Retrieval Infra Owner": 32.59,
+        "ML Platform Owner": 37.77,
+        "LLM Product Owner": 37.42,
+        "Recruiter Workflow Owner": 40.57
+      }
+    },
+    {
+      "candidate_id": "CAND_0000023",
+      "rank": 20,
+      "score": 19.574653,
+      "reasoning": "3.7 years as Software Engineer with strongest evidence in Product Shipping, Python Systems; profile also lists BigQuery, Marketing, Node.js. Ranked here after balancing fit score 19.6, hireability signal 67, and concern: not currently marked open to work.",
+      "name": "Kavya Nair",
+      "headline": "Software Engineer | Cloud & DevOps",
+      "location": "New York",
+      "country": "USA",
+      "years_experience": 3.7,
+      "current_title": "Software Engineer",
+      "current_company": "Acme Corp",
+      "salary_mid_lpa": 18.95,
+      "notice_days": 30,
+      "preferred_work_mode": "flexible",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 31,
+      "chemistry": 47,
+      "company_to_candidate": 83,
+      "candidate_to_company": 16,
+      "group_scores": {
+        "retrieval": 8.41,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 28.12,
+        "python": 43.36,
+        "llm": 0.0,
+        "shipping": 46.32
+      },
+      "behavior_score": 67.2,
+      "lexical_jd_score": 21.93,
+      "experience_score": 75.61,
+      "risk_penalty": 4.0,
+      "risk_flags": [
+        "not marked open"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work"
+      ],
+      "skills": [
+        "BigQuery",
+        "Marketing",
+        "Node.js",
+        "Django",
+        "Salesforce CRM",
+        "MongoDB",
+        "ETL",
+        "Redis",
+        "Illustrator",
+        "Rust"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": 48.5,
+        "open_to_work": false,
+        "response_rate": 0.57
+      },
+      "interview_proxy": {
+        "Communication": 80,
+        "Technical Depth": 10,
+        "Role Clarity": 27,
+        "Recruiter Readiness": 67
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 17.78,
+        "Retrieval Infra Owner": 16.13,
+        "ML Platform Owner": 21.32,
+        "LLM Product Owner": 14.27,
+        "Recruiter Workflow Owner": 25.93
+      }
+    },
+    {
+      "candidate_id": "CAND_0000041",
+      "rank": 21,
+      "score": 19.12491,
+      "reasoning": "13.7 years as Operations Manager with strongest evidence in Product Shipping, Production ML; profile also lists Airflow, SQL, Go. Ranked here after balancing fit score 19.1, hireability signal 64, and concern: recruiter response rate is weak.",
+      "name": "Anjali Khanna",
+      "headline": "Operations Manager | Helping teams scale",
+      "location": "Delhi, Delhi",
+      "country": "India",
+      "years_experience": 13.7,
+      "current_title": "Operations Manager",
+      "current_company": "Hooli",
+      "salary_mid_lpa": 7.35,
+      "notice_days": 90,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 27,
+      "chemistry": 45,
+      "company_to_candidate": 82,
+      "candidate_to_company": 27,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 22.8,
+        "production": 57.73,
+        "python": 36.23,
+        "llm": 22.8,
+        "shipping": 58.04
+      },
+      "behavior_score": 64.07,
+      "lexical_jd_score": 23.79,
+      "experience_score": 54.41,
+      "risk_penalty": 14.0,
+      "risk_flags": [
+        "low response",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "Production ML evidence",
+        "LinkedIn connected",
+        "verified contact channels",
+        "available/open-to-work signal"
+      ],
+      "concerns": [
+        "Recruiter response rate is weak",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Airflow",
+        "SQL",
+        "Go",
+        "GCP",
+        "Figma",
+        "React",
+        "Webpack",
+        "Kubernetes",
+        "Angular"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": -1,
+        "open_to_work": true,
+        "response_rate": 0.07
+      },
+      "interview_proxy": {
+        "Communication": 84,
+        "Technical Depth": 24,
+        "Role Clarity": 36,
+        "Recruiter Readiness": 64
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 29.02,
+        "Retrieval Infra Owner": 19.38,
+        "ML Platform Owner": 36.02,
+        "LLM Product Owner": 26.66,
+        "Recruiter Workflow Owner": 38.06
+      }
+    },
+    {
+      "candidate_id": "CAND_0000002",
+      "rank": 22,
+      "score": 18.865153,
+      "reasoning": "12.5 years as Operations Manager with strongest evidence in Product Shipping, Production ML; profile also lists Project Management, React, Photoshop. Ranked here after balancing fit score 18.9, hireability signal 52, and concern: current role is not close to ai engineering.",
+      "name": "Saanvi Sethi",
+      "headline": "Operations Manager | 12.5+ yrs experience",
+      "location": "Chennai, Tamil Nadu",
+      "country": "India",
+      "years_experience": 12.5,
+      "current_title": "Operations Manager",
+      "current_company": "Wipro",
+      "salary_mid_lpa": 8.9,
+      "notice_days": 60,
+      "preferred_work_mode": "flexible",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 31,
+      "chemistry": 46,
+      "company_to_candidate": 94,
+      "candidate_to_company": 25,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 22.8,
+        "production": 44.52,
+        "python": 22.8,
+        "llm": 22.8,
+        "shipping": 72.75
+      },
+      "behavior_score": 51.85,
+      "lexical_jd_score": 23.83,
+      "experience_score": 62.14,
+      "risk_penalty": 12.0,
+      "risk_flags": [
+        "verification gap",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "available/open-to-work signal"
+      ],
+      "concerns": [
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Project Management",
+        "React",
+        "Photoshop",
+        "TypeScript",
+        "Marketing",
+        "Kafka",
+        "JavaScript",
+        "Feature Engineering",
+        "GCP"
+      ],
+      "verified": {
+        "email": false,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": true,
+        "response_rate": 0.29
+      },
+      "interview_proxy": {
+        "Communication": 87,
+        "Technical Depth": 20,
+        "Role Clarity": 39,
+        "Recruiter Readiness": 52
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 26.23,
+        "Retrieval Infra Owner": 16.0,
+        "ML Platform Owner": 29.99,
+        "LLM Product Owner": 23.25,
+        "Recruiter Workflow Owner": 39.61
+      }
+    },
+    {
+      "candidate_id": "CAND_0000033",
+      "rank": 23,
+      "score": 18.131128,
+      "reasoning": "8.6 years as Graphic Designer with strongest evidence in Product Shipping, Production ML; profile also lists Kubernetes, Data Pipelines, Snowflake. Ranked here after balancing fit score 18.1, hireability signal 55, and concern: recruiter response rate is weak.",
+      "name": "Shreya Nair",
+      "headline": "Graphic Designer | Helping teams scale",
+      "location": "Pune, Maharashtra",
+      "country": "India",
+      "years_experience": 8.6,
+      "current_title": "Graphic Designer",
+      "current_company": "Wipro",
+      "salary_mid_lpa": 10.65,
+      "notice_days": 30,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 32,
+      "chemistry": 46,
+      "company_to_candidate": 94,
+      "candidate_to_company": 17,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 45.77,
+        "python": 22.8,
+        "llm": 0.0,
+        "shipping": 52.09
+      },
+      "behavior_score": 54.57,
+      "lexical_jd_score": 25.63,
+      "experience_score": 94.8,
+      "risk_penalty": 6.0,
+      "risk_flags": [
+        "low response",
+        "verification gap"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "Production ML evidence",
+        "available/open-to-work signal"
+      ],
+      "concerns": [
+        "Recruiter response rate is weak"
+      ],
+      "skills": [
+        "Kubernetes",
+        "Data Pipelines",
+        "Snowflake",
+        "CI/CD",
+        "SEO",
+        "ETL",
+        "Airflow",
+        "TypeScript",
+        "Content Writing",
+        "Spring Boot"
+      ],
+      "verified": {
+        "email": false,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": 38.3,
+        "open_to_work": true,
+        "response_rate": 0.08
+      },
+      "interview_proxy": {
+        "Communication": 80,
+        "Technical Depth": 11,
+        "Role Clarity": 29,
+        "Recruiter Readiness": 55
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 16.64,
+        "Retrieval Infra Owner": 15.01,
+        "ML Platform Owner": 22.79,
+        "LLM Product Owner": 12.6,
+        "Recruiter Workflow Owner": 27.31
+      }
+    },
+    {
+      "candidate_id": "CAND_0000016",
+      "rank": 24,
+      "score": 17.877667,
+      "reasoning": "5.3 years as Accountant with strongest evidence in Product Shipping, Production ML; profile also lists Node.js, Figma, Data Pipelines. Ranked here after balancing fit score 17.9, hireability signal 60, and concern: current role is not close to ai engineering.",
+      "name": "Aanya Malhotra",
+      "headline": "Accountant | Helping teams scale",
+      "location": "Gurgaon, Haryana",
+      "country": "India",
+      "years_experience": 5.3,
+      "current_title": "Accountant",
+      "current_company": "Infosys",
+      "salary_mid_lpa": 7.1,
+      "notice_days": 60,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 30,
+      "chemistry": 47,
+      "company_to_candidate": 94,
+      "candidate_to_company": 22,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 22.8,
+        "production": 43.06,
+        "python": 36.66,
+        "llm": 0.0,
+        "shipping": 58.04
+      },
+      "behavior_score": 59.52,
+      "lexical_jd_score": 22.47,
+      "experience_score": 96.48,
+      "risk_penalty": 12.0,
+      "risk_flags": [
+        "verification gap",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "LinkedIn connected",
+        "available/open-to-work signal"
+      ],
+      "concerns": [
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Node.js",
+        "Figma",
+        "Data Pipelines",
+        "Go",
+        "Photoshop",
+        "Kubeflow",
+        "Accounting",
+        "SQL"
+      ],
+      "verified": {
+        "email": false,
+        "phone": false,
+        "linkedin": true,
+        "github_activity": 42.9,
+        "open_to_work": true,
+        "response_rate": 0.64
+      },
+      "interview_proxy": {
+        "Communication": 83,
+        "Technical Depth": 16,
+        "Role Clarity": 33,
+        "Recruiter Readiness": 60
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 26.44,
+        "Retrieval Infra Owner": 16.49,
+        "ML Platform Owner": 28.82,
+        "LLM Product Owner": 16.62,
+        "Recruiter Workflow Owner": 34.39
+      }
+    },
+    {
+      "candidate_id": "CAND_0000037",
+      "rank": 25,
+      "score": 17.429148,
+      "reasoning": "14.3 years as Business Analyst with strongest evidence in Production ML, Product Shipping; profile also lists Databricks, Docker, Flask. Ranked here after balancing fit score 17.4, hireability signal 64, and concern: not currently marked open to work.",
+      "name": "Ved Sen",
+      "headline": "Business Analyst | 14.3+ yrs experience",
+      "location": "Dubai",
+      "country": "UAE",
+      "years_experience": 14.3,
+      "current_title": "Business Analyst",
+      "current_company": "Stark Industries",
+      "salary_mid_lpa": 11.5,
+      "notice_days": 30,
+      "preferred_work_mode": "onsite",
+      "role_lane": "Production ML Engineer",
+      "potential": 25,
+      "chemistry": 45,
+      "company_to_candidate": 80,
+      "candidate_to_company": 22,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 60.99,
+        "python": 17.95,
+        "llm": 22.8,
+        "shipping": 56.58
+      },
+      "behavior_score": 64.2,
+      "lexical_jd_score": 17.67,
+      "experience_score": 21.5,
+      "risk_penalty": 9.0,
+      "risk_flags": [
+        "not marked open",
+        "seniority mismatch"
+      ],
+      "strengths": [
+        "Production ML evidence",
+        "Product Shipping evidence",
+        "LinkedIn connected",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work"
+      ],
+      "skills": [
+        "Databricks",
+        "Docker",
+        "Flask",
+        "AWS",
+        "Terraform",
+        "Tally",
+        "TTS",
+        "Apache Beam"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.78
+      },
+      "interview_proxy": {
+        "Communication": 83,
+        "Technical Depth": 19,
+        "Role Clarity": 31,
+        "Recruiter Readiness": 64
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 19.15,
+        "Retrieval Infra Owner": 17.75,
+        "ML Platform Owner": 29.64,
+        "LLM Product Owner": 22.29,
+        "Recruiter Workflow Owner": 32.16
+      }
+    },
+    {
+      "candidate_id": "CAND_0000036",
+      "rank": 26,
+      "score": 16.781723,
+      "reasoning": "11.3 years as Project Manager with strongest evidence in Product Shipping; profile also lists Figma, MongoDB, PowerPoint. Good Redrob fit because technical evidence, availability signals, and practical outreach fit are aligned.",
+      "name": "Ananya Bose",
+      "headline": "Project Manager | 11.3+ yrs experience",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years_experience": 11.3,
+      "current_title": "Project Manager",
+      "current_company": "Initech",
+      "salary_mid_lpa": 12.5,
+      "notice_days": 60,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 30,
+      "chemistry": 45,
+      "company_to_candidate": 87,
+      "candidate_to_company": 12,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 22.8,
+        "python": 22.8,
+        "llm": 0.0,
+        "shipping": 53.43
+      },
+      "behavior_score": 57.22,
+      "lexical_jd_score": 17.11,
+      "experience_score": 71.55,
+      "risk_penalty": 2.0,
+      "risk_flags": [
+        "verification gap"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "available/open-to-work signal"
+      ],
+      "concerns": [],
+      "skills": [
+        "Figma",
+        "MongoDB",
+        "PowerPoint",
+        "CSS",
+        "Excel",
+        "GraphQL",
+        "Object Detection",
+        "Vue.js",
+        "Sales"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": true,
+        "response_rate": 0.4
+      },
+      "interview_proxy": {
+        "Communication": 81,
+        "Technical Depth": 6,
+        "Role Clarity": 26,
+        "Recruiter Readiness": 57
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 12.64,
+        "Retrieval Infra Owner": 10.5,
+        "ML Platform Owner": 15.06,
+        "LLM Product Owner": 8.98,
+        "Recruiter Workflow Owner": 24.09
+      }
+    },
+    {
+      "candidate_id": "CAND_0000029",
+      "rank": 27,
+      "score": 15.855377,
+      "reasoning": "7.2 years as Business Analyst with strongest evidence in Product Shipping, Production ML; profile also lists Node.js, Scrum, Tailwind. Ranked here after balancing fit score 15.9, hireability signal 51, and concern: not currently marked open to work.",
+      "name": "Priya Sethi",
+      "headline": "Business Analyst | Driving business outcomes",
+      "location": "Noida, Uttar Pradesh",
+      "country": "India",
+      "years_experience": 7.2,
+      "current_title": "Business Analyst",
+      "current_company": "Wipro",
+      "salary_mid_lpa": 18.3,
+      "notice_days": 60,
+      "preferred_work_mode": "onsite",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 30,
+      "chemistry": 44,
+      "company_to_candidate": 94,
+      "candidate_to_company": 19,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 22.8,
+        "production": 28.12,
+        "python": 22.8,
+        "llm": 0.0,
+        "shipping": 63.93
+      },
+      "behavior_score": 50.93,
+      "lexical_jd_score": 21.89,
+      "experience_score": 96.48,
+      "risk_penalty": 10.0,
+      "risk_flags": [
+        "not marked open",
+        "low response",
+        "verification gap"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "LinkedIn connected"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Recruiter response rate is weak"
+      ],
+      "skills": [
+        "Node.js",
+        "Scrum",
+        "Tailwind",
+        "Hadoop",
+        "Spring Boot",
+        "CI/CD",
+        "gRPC",
+        "Terraform"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": true,
+        "github_activity": 42.5,
+        "open_to_work": false,
+        "response_rate": 0.12
+      },
+      "interview_proxy": {
+        "Communication": 83,
+        "Technical Depth": 13,
+        "Role Clarity": 33,
+        "Recruiter Readiness": 51
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 22.4,
+        "Retrieval Infra Owner": 12.19,
+        "ML Platform Owner": 21.6,
+        "LLM Product Owner": 12.53,
+        "Recruiter Workflow Owner": 32.62
+      }
+    },
+    {
+      "candidate_id": "CAND_0000019",
+      "rank": 28,
+      "score": 15.162705,
+      "reasoning": "6.5 years as Project Manager with strongest evidence in Product Shipping, Production ML; profile also lists Figma, GraphQL, Six Sigma. Ranked here after balancing fit score 15.2, hireability signal 49, and concern: not currently marked open to work.",
+      "name": "Myra Mishra",
+      "headline": "Project Manager | 6.5+ yrs experience",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years_experience": 6.5,
+      "current_title": "Project Manager",
+      "current_company": "Wayne Enterprises",
+      "salary_mid_lpa": 10.1,
+      "notice_days": 60,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 31,
+      "chemistry": 43,
+      "company_to_candidate": 94,
+      "candidate_to_company": 14,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 39.64,
+        "python": 0.0,
+        "llm": 0.0,
+        "shipping": 61.75
+      },
+      "behavior_score": 48.95,
+      "lexical_jd_score": 19.67,
+      "experience_score": 100.0,
+      "risk_penalty": 6.0,
+      "risk_flags": [
+        "not marked open",
+        "verification gap"
+      ],
+      "strengths": [
+        "Product Shipping evidence"
+      ],
+      "concerns": [
+        "Not currently marked open to work"
+      ],
+      "skills": [
+        "Figma",
+        "GraphQL",
+        "Six Sigma",
+        "Scrum",
+        "YOLO",
+        "gRPC",
+        "AWS",
+        "Azure"
+      ],
+      "verified": {
+        "email": false,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.34
+      },
+      "interview_proxy": {
+        "Communication": 82,
+        "Technical Depth": 10,
+        "Role Clarity": 30,
+        "Recruiter Readiness": 49
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 13.31,
+        "Retrieval Infra Owner": 11.63,
+        "ML Platform Owner": 17.18,
+        "LLM Product Owner": 8.81,
+        "Recruiter Workflow Owner": 27.34
+      }
+    },
+    {
+      "candidate_id": "CAND_0000007",
+      "rank": 29,
+      "score": 14.500267,
+      "reasoning": "5.5 years as Civil Engineer with strongest evidence in Product Shipping, Production ML; profile also lists Content Writing, MongoDB, Sales. Ranked here after balancing fit score 14.5, hireability signal 70, and concern: not currently marked open to work.",
+      "name": "Vihaan Bose",
+      "headline": "Civil Engineer | 5.5+ yrs experience",
+      "location": "Gurgaon, Haryana",
+      "country": "India",
+      "years_experience": 5.5,
+      "current_title": "Civil Engineer",
+      "current_company": "Wipro",
+      "salary_mid_lpa": 10.65,
+      "notice_days": 30,
+      "preferred_work_mode": "onsite",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 28,
+      "chemistry": 47,
+      "company_to_candidate": 93,
+      "candidate_to_company": 21,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 22.8,
+        "production": 38.48,
+        "python": 22.8,
+        "llm": 0.0,
+        "shipping": 63.51
+      },
+      "behavior_score": 70.0,
+      "lexical_jd_score": 18.59,
+      "experience_score": 98.24,
+      "risk_penalty": 14.0,
+      "risk_flags": [
+        "not marked open",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "LinkedIn connected",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Content Writing",
+        "MongoDB",
+        "Sales",
+        "Spark",
+        "Scrum",
+        "Apache Beam",
+        "Illustrator"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.62
+      },
+      "interview_proxy": {
+        "Communication": 86,
+        "Technical Depth": 15,
+        "Role Clarity": 33,
+        "Recruiter Readiness": 70
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 24.22,
+        "Retrieval Infra Owner": 14.24,
+        "ML Platform Owner": 25.1,
+        "LLM Product Owner": 14.17,
+        "Recruiter Workflow Owner": 34.13
+      }
+    },
+    {
+      "candidate_id": "CAND_0000024",
+      "rank": 30,
+      "score": 13.525626,
+      "reasoning": "7.5 years as HR Manager with strongest evidence in Product Shipping, Production ML; profile also lists Figma, Kubernetes, Forecasting. Ranked here after balancing fit score 13.5, hireability signal 55, and concern: not currently marked open to work.",
+      "name": "Rajesh Arora",
+      "headline": "HR Manager | 7.5+ yrs experience",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years_experience": 7.5,
+      "current_title": "HR Manager",
+      "current_company": "TCS",
+      "salary_mid_lpa": 16.0,
+      "notice_days": 60,
+      "preferred_work_mode": "flexible",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 25,
+      "chemistry": 44,
+      "company_to_candidate": 94,
+      "candidate_to_company": 18,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 42.8,
+        "python": 22.8,
+        "llm": 22.8,
+        "shipping": 48.45
+      },
+      "behavior_score": 55.34,
+      "lexical_jd_score": 24.51,
+      "experience_score": 96.48,
+      "risk_penalty": 12.0,
+      "risk_flags": [
+        "not marked open",
+        "verification gap",
+        "consulting-heavy"
+      ],
+      "strengths": [
+        "Product Shipping evidence"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Career evidence may be more services/consulting than product ML"
+      ],
+      "skills": [
+        "Figma",
+        "Kubernetes",
+        "Forecasting",
+        "ETL",
+        "Node.js",
+        "Docker"
+      ],
+      "verified": {
+        "email": false,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": 46.3,
+        "open_to_work": false,
+        "response_rate": 0.78
+      },
+      "interview_proxy": {
+        "Communication": 78,
+        "Technical Depth": 14,
+        "Role Clarity": 29,
+        "Recruiter Readiness": 55
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 15.74,
+        "Retrieval Infra Owner": 14.2,
+        "ML Platform Owner": 23.84,
+        "LLM Product Owner": 19.73,
+        "Recruiter Workflow Owner": 26.97
+      }
+    },
+    {
+      "candidate_id": "CAND_0000017",
+      "rank": 31,
+      "score": 12.692577,
+      "reasoning": "12.3 years as Accountant with strongest evidence in Product Shipping, Production ML; profile also lists Next.js, Java, Apache Flink. Ranked here after balancing fit score 12.7, hireability signal 37, and concern: not currently marked open to work.",
+      "name": "Anil Pandey",
+      "headline": "Accountant | 12.3+ yrs experience",
+      "location": "Bangalore, Karnataka",
+      "country": "India",
+      "years_experience": 12.3,
+      "current_title": "Accountant",
+      "current_company": "Wipro",
+      "salary_mid_lpa": 11.1,
+      "notice_days": 90,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 22,
+      "chemistry": 38,
+      "company_to_candidate": 88,
+      "candidate_to_company": 23,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 22.8,
+        "production": 44.43,
+        "python": 44.43,
+        "llm": 0.0,
+        "shipping": 58.57
+      },
+      "behavior_score": 36.51,
+      "lexical_jd_score": 22.92,
+      "experience_score": 63.43,
+      "risk_penalty": 16.0,
+      "risk_flags": [
+        "not marked open",
+        "verification gap",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Next.js",
+        "Java",
+        "Apache Flink",
+        "Sales",
+        "Tally",
+        "PostgreSQL",
+        "REST APIs",
+        "Hadoop"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.27
+      },
+      "interview_proxy": {
+        "Communication": 78,
+        "Technical Depth": 17,
+        "Role Clarity": 34,
+        "Recruiter Readiness": 37
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 27.83,
+        "Retrieval Infra Owner": 17.73,
+        "ML Platform Owner": 30.72,
+        "LLM Product Owner": 17.95,
+        "Recruiter Workflow Owner": 35.57
+      }
+    },
+    {
+      "candidate_id": "CAND_0000020",
+      "rank": 32,
+      "score": 12.030057,
+      "reasoning": "6.3 years as Mechanical Engineer with strongest evidence in Product Shipping, Production ML; profile also lists GraphQL, TypeScript, Flask. Ranked here after balancing fit score 12.0, hireability signal 59, and concern: not currently marked open to work.",
+      "name": "Aditya Iyengar",
+      "headline": "Mechanical Engineer | 6.3+ yrs experience",
+      "location": "Ahmedabad, Gujarat",
+      "country": "India",
+      "years_experience": 6.3,
+      "current_title": "Mechanical Engineer",
+      "current_company": "Wipro",
+      "salary_mid_lpa": 17.7,
+      "notice_days": 30,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 23,
+      "chemistry": 43,
+      "company_to_candidate": 90,
+      "candidate_to_company": 21,
+      "group_scores": {
+        "retrieval": 8.41,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 39.45,
+        "python": 38.63,
+        "llm": 22.8,
+        "shipping": 48.45
+      },
+      "behavior_score": 58.84,
+      "lexical_jd_score": 18.9,
+      "experience_score": 100.0,
+      "risk_penalty": 16.0,
+      "risk_flags": [
+        "not marked open",
+        "verification gap",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "LinkedIn connected"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "GraphQL",
+        "TypeScript",
+        "Flask",
+        "Weights & Biases",
+        "GCP",
+        "Salesforce CRM",
+        "HTML"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": true,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.55
+      },
+      "interview_proxy": {
+        "Communication": 79,
+        "Technical Depth": 16,
+        "Role Clarity": 29,
+        "Recruiter Readiness": 59
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 19.37,
+        "Retrieval Infra Owner": 17.96,
+        "ML Platform Owner": 26.73,
+        "LLM Product Owner": 23.26,
+        "Recruiter Workflow Owner": 29.36
+      }
+    },
+    {
+      "candidate_id": "CAND_0000046",
+      "rank": 33,
+      "score": 11.548861,
+      "reasoning": "7.8 years as Mechanical Engineer with strongest evidence in Product Shipping; profile also lists Agile, Scrum, SAP. Ranked here after balancing fit score 11.5, hireability signal 58, and concern: not currently marked open to work.",
+      "name": "Dev Nair",
+      "headline": "Mechanical Engineer | 7.8+ yrs experience",
+      "location": "London",
+      "country": "UK",
+      "years_experience": 7.8,
+      "current_title": "Mechanical Engineer",
+      "current_company": "Hooli",
+      "salary_mid_lpa": 17.8,
+      "notice_days": 30,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 27,
+      "chemistry": 41,
+      "company_to_candidate": 84,
+      "candidate_to_company": 18,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 22.8,
+        "production": 22.8,
+        "python": 0.0,
+        "llm": 22.8,
+        "shipping": 71.29
+      },
+      "behavior_score": 58.49,
+      "lexical_jd_score": 19.2,
+      "experience_score": 96.48,
+      "risk_penalty": 14.0,
+      "risk_flags": [
+        "not marked open",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "LinkedIn connected",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Agile",
+        "Scrum",
+        "SAP",
+        "React",
+        "Azure",
+        "ETL"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": 20.9,
+        "open_to_work": false,
+        "response_rate": 0.41
+      },
+      "interview_proxy": {
+        "Communication": 87,
+        "Technical Depth": 15,
+        "Role Clarity": 34,
+        "Recruiter Readiness": 58
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 18.98,
+        "Retrieval Infra Owner": 8.84,
+        "ML Platform Owner": 18.41,
+        "LLM Product Owner": 16.53,
+        "Recruiter Workflow Owner": 33.36
+      }
+    },
+    {
+      "candidate_id": "CAND_0000005",
+      "rank": 34,
+      "score": 10.964656,
+      "reasoning": "11.0 years as Accountant with strongest evidence in Product Shipping, Python Systems; profile also lists SQL, PowerPoint, Photoshop. Ranked here after balancing fit score 11.0, hireability signal 66, and concern: current role is not close to ai engineering.",
+      "name": "Aisha Sethi",
+      "headline": "Accountant | Helping teams scale",
+      "location": "Gurgaon, Haryana",
+      "country": "India",
+      "years_experience": 11.0,
+      "current_title": "Accountant",
+      "current_company": "Stark Industries",
+      "salary_mid_lpa": 16.05,
+      "notice_days": 30,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 23,
+      "chemistry": 46,
+      "company_to_candidate": 97,
+      "candidate_to_company": 15,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 22.8,
+        "production": 9.88,
+        "python": 32.68,
+        "llm": 0.0,
+        "shipping": 55.73
+      },
+      "behavior_score": 66.0,
+      "lexical_jd_score": 25.93,
+      "experience_score": 79.0,
+      "risk_penalty": 12.0,
+      "risk_flags": [
+        "verification gap",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "LinkedIn connected",
+        "available/open-to-work signal"
+      ],
+      "concerns": [
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "SQL",
+        "PowerPoint",
+        "Photoshop",
+        "Tailwind",
+        "Apache Flink",
+        "Image Classification"
+      ],
+      "verified": {
+        "email": false,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": -1,
+        "open_to_work": true,
+        "response_rate": 0.37
+      },
+      "interview_proxy": {
+        "Communication": 83,
+        "Technical Depth": 8,
+        "Role Clarity": 30,
+        "Recruiter Readiness": 66
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 19.68,
+        "Retrieval Infra Owner": 9.24,
+        "ML Platform Owner": 16.69,
+        "LLM Product Owner": 10.66,
+        "Recruiter Workflow Owner": 27.9
+      }
+    },
+    {
+      "candidate_id": "CAND_0000030",
+      "rank": 35,
+      "score": 9.96142,
+      "reasoning": "10.0 years as Marketing Manager with strongest evidence in Product Shipping, Production ML; profile also lists gRPC, Apache Beam, GraphQL. Ranked here after balancing fit score 10.0, hireability signal 56, and concern: not currently marked open to work.",
+      "name": "Ritu Pillai",
+      "headline": "Marketing Manager | Driving business outcomes",
+      "location": "Kochi, Kerala",
+      "country": "India",
+      "years_experience": 10.0,
+      "current_title": "Marketing Manager",
+      "current_company": "Dunder Mifflin",
+      "salary_mid_lpa": 14.45,
+      "notice_days": 60,
+      "preferred_work_mode": "flexible",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 21,
+      "chemistry": 42,
+      "company_to_candidate": 94,
+      "candidate_to_company": 17,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 37.21,
+        "python": 15.68,
+        "llm": 22.8,
+        "shipping": 53.43
+      },
+      "behavior_score": 56.09,
+      "lexical_jd_score": 27.5,
+      "experience_score": 83.76,
+      "risk_penalty": 14.0,
+      "risk_flags": [
+        "not marked open",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "gRPC",
+        "Apache Beam",
+        "GraphQL",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Six Sigma",
+        "Accounting",
+        "HTML"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": 21.7,
+        "open_to_work": false,
+        "response_rate": 0.66
+      },
+      "interview_proxy": {
+        "Communication": 80,
+        "Technical Depth": 13,
+        "Role Clarity": 30,
+        "Recruiter Readiness": 56
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 14.24,
+        "Retrieval Infra Owner": 12.53,
+        "ML Platform Owner": 20.96,
+        "LLM Product Owner": 18.04,
+        "Recruiter Workflow Owner": 27.06
+      }
+    },
+    {
+      "candidate_id": "CAND_0000034",
+      "rank": 36,
+      "score": 8.400652,
+      "reasoning": "14.5 years as Business Analyst with strongest evidence in Product Shipping, Python Systems; profile also lists GraphQL, Excel, Node.js. Ranked here after balancing fit score 8.4, hireability signal 41, and concern: not currently marked open to work.",
+      "name": "Yash Chatterjee",
+      "headline": "Business Analyst | Driving business outcomes",
+      "location": "Ahmedabad, Gujarat",
+      "country": "India",
+      "years_experience": 14.5,
+      "current_title": "Business Analyst",
+      "current_company": "Wipro",
+      "salary_mid_lpa": 21.2,
+      "notice_days": 90,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 15,
+      "chemistry": 38,
+      "company_to_candidate": 88,
+      "candidate_to_company": 17,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 22.8,
+        "python": 44.7,
+        "llm": 22.8,
+        "shipping": 55.73
+      },
+      "behavior_score": 40.79,
+      "lexical_jd_score": 23.97,
+      "experience_score": 18.9,
+      "risk_penalty": 13.0,
+      "risk_flags": [
+        "not marked open",
+        "low response",
+        "seniority mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Recruiter response rate is weak"
+      ],
+      "skills": [
+        "GraphQL",
+        "Excel",
+        "Node.js",
+        "Terraform",
+        "Salesforce CRM",
+        "Flask",
+        "React",
+        "Azure",
+        "Redux",
+        "Next.js"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.15
+      },
+      "interview_proxy": {
+        "Communication": 78,
+        "Technical Depth": 9,
+        "Role Clarity": 30,
+        "Recruiter Readiness": 41
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 15.93,
+        "Retrieval Infra Owner": 13.27,
+        "ML Platform Owner": 21.42,
+        "LLM Product Owner": 19.89,
+        "Recruiter Workflow Owner": 28.43
+      }
+    },
+    {
+      "candidate_id": "CAND_0000039",
+      "rank": 37,
+      "score": 8.276538,
+      "reasoning": "3.9 years as Marketing Manager with strongest evidence in Production ML, Product Shipping; profile also lists Spark, Tailwind, Sales. Ranked here after balancing fit score 8.3, hireability signal 63, and concern: not currently marked open to work.",
+      "name": "Sai Saxena",
+      "headline": "Marketing Manager | Helping teams scale",
+      "location": "Bhubaneswar, Odisha",
+      "country": "India",
+      "years_experience": 3.9,
+      "current_title": "Marketing Manager",
+      "current_company": "Acme Corp",
+      "salary_mid_lpa": 16.7,
+      "notice_days": 30,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Production ML Engineer",
+      "potential": 18,
+      "chemistry": 44,
+      "company_to_candidate": 97,
+      "candidate_to_company": 17,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 51.37,
+        "python": 21.97,
+        "llm": 0.0,
+        "shipping": 50.29
+      },
+      "behavior_score": 62.69,
+      "lexical_jd_score": 15.35,
+      "experience_score": 77.9,
+      "risk_penalty": 16.0,
+      "risk_flags": [
+        "not marked open",
+        "verification gap",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Production ML evidence",
+        "Product Shipping evidence",
+        "LinkedIn connected"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Spark",
+        "Tailwind",
+        "Sales",
+        "CI/CD",
+        "Illustrator",
+        "Hadoop",
+        "Microservices",
+        "REST APIs",
+        "AWS"
+      ],
+      "verified": {
+        "email": false,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.52
+      },
+      "interview_proxy": {
+        "Communication": 79,
+        "Technical Depth": 13,
+        "Role Clarity": 27,
+        "Recruiter Readiness": 63
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 17.35,
+        "Retrieval Infra Owner": 15.93,
+        "ML Platform Owner": 24.44,
+        "LLM Product Owner": 13.31,
+        "Recruiter Workflow Owner": 27.52
+      }
+    },
+    {
+      "candidate_id": "CAND_0000004",
+      "rank": 38,
+      "score": 8.233736,
+      "reasoning": "3.8 years as Marketing Manager with strongest evidence in Production ML, Product Shipping; profile also lists Node.js, Content Writing, Redux. Ranked here after balancing fit score 8.2, hireability signal 48, and concern: not currently marked open to work.",
+      "name": "Anil Bose",
+      "headline": "Marketing Manager | Driving business outcomes",
+      "location": "Sydney",
+      "country": "Australia",
+      "years_experience": 3.8,
+      "current_title": "Marketing Manager",
+      "current_company": "Dunder Mifflin",
+      "salary_mid_lpa": 5.65,
+      "notice_days": 120,
+      "preferred_work_mode": "onsite",
+      "role_lane": "Production ML Engineer",
+      "potential": 18,
+      "chemistry": 33,
+      "company_to_candidate": 72,
+      "candidate_to_company": 21,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 57.24,
+        "python": 22.8,
+        "llm": 22.8,
+        "shipping": 55.73
+      },
+      "behavior_score": 47.68,
+      "lexical_jd_score": 20.74,
+      "experience_score": 75.87,
+      "risk_penalty": 19.0,
+      "risk_flags": [
+        "not marked open",
+        "long notice",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Production ML evidence",
+        "Product Shipping evidence",
+        "LinkedIn connected",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Notice period is 120 days",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Node.js",
+        "Content Writing",
+        "Redux",
+        "Airflow",
+        "GraphQL",
+        "Object Detection",
+        "Webpack",
+        "Six Sigma",
+        "SAP",
+        "JavaScript"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": true,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.26
+      },
+      "interview_proxy": {
+        "Communication": 80,
+        "Technical Depth": 18,
+        "Role Clarity": 32,
+        "Recruiter Readiness": 48
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 19.07,
+        "Retrieval Infra Owner": 17.53,
+        "ML Platform Owner": 29.19,
+        "LLM Product Owner": 22.33,
+        "Recruiter Workflow Owner": 31.75
+      }
+    },
+    {
+      "candidate_id": "CAND_0000018",
+      "rank": 39,
+      "score": 7.104265,
+      "reasoning": "6.6 years as Frontend Engineer with strongest evidence in Product Shipping, Production ML; profile also lists CNN, Java, Accounting. Ranked here after balancing fit score 7.1, hireability signal 38, and concern: not currently marked open to work.",
+      "name": "Vivaan Reddy",
+      "headline": "Frontend Engineer | Full-stack development",
+      "location": "Bhubaneswar, Odisha",
+      "country": "India",
+      "years_experience": 6.6,
+      "current_title": "Frontend Engineer",
+      "current_company": "Acme Corp",
+      "salary_mid_lpa": 19.35,
+      "notice_days": 120,
+      "preferred_work_mode": "onsite",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 19,
+      "chemistry": 32,
+      "company_to_candidate": 79,
+      "candidate_to_company": 16,
+      "group_scores": {
+        "retrieval": 8.41,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 32.71,
+        "python": 28.12,
+        "llm": 0.0,
+        "shipping": 46.32
+      },
+      "behavior_score": 38.34,
+      "lexical_jd_score": 20.44,
+      "experience_score": 96.48,
+      "risk_penalty": 15.0,
+      "risk_flags": [
+        "not marked open",
+        "long notice",
+        "low response",
+        "verification gap"
+      ],
+      "strengths": [
+        "Product Shipping evidence"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Notice period is 120 days",
+        "Recruiter response rate is weak"
+      ],
+      "skills": [
+        "CNN",
+        "Java",
+        "Accounting",
+        "Data Pipelines",
+        "Node.js",
+        "Tailwind"
+      ],
+      "verified": {
+        "email": false,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.16
+      },
+      "interview_proxy": {
+        "Communication": 74,
+        "Technical Depth": 11,
+        "Role Clarity": 26,
+        "Recruiter Readiness": 38
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 16.48,
+        "Retrieval Infra Owner": 15.22,
+        "ML Platform Owner": 20.14,
+        "LLM Product Owner": 12.87,
+        "Recruiter Workflow Owner": 25.14
+      }
+    },
+    {
+      "candidate_id": "CAND_0000047",
+      "rank": 40,
+      "score": 4.724217,
+      "reasoning": "2.4 years as Project Manager with strongest evidence in Product Shipping, Python Systems; profile also lists FastAPI, Java, Excel. Ranked here after balancing fit score 4.7, hireability signal 56, and concern: not currently marked open to work.",
+      "name": "Avni Bansal",
+      "headline": "Project Manager | Helping teams scale",
+      "location": "Kochi, Kerala",
+      "country": "India",
+      "years_experience": 2.4,
+      "current_title": "Project Manager",
+      "current_company": "TCS",
+      "salary_mid_lpa": 16.25,
+      "notice_days": 90,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 12,
+      "chemistry": 37,
+      "company_to_candidate": 82,
+      "candidate_to_company": 22,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 42.68,
+        "python": 46.38,
+        "llm": 22.8,
+        "shipping": 64.7
+      },
+      "behavior_score": 56.44,
+      "lexical_jd_score": 13.88,
+      "experience_score": 33.92,
+      "risk_penalty": 22.0,
+      "risk_flags": [
+        "not marked open",
+        "too junior",
+        "consulting-heavy"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "Python Systems evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Experience is materially below the senior range",
+        "Career evidence may be more services/consulting than product ML"
+      ],
+      "skills": [
+        "FastAPI",
+        "Java",
+        "Excel",
+        "Tally",
+        "SQL",
+        "Scrum",
+        "Hadoop"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.39
+      },
+      "interview_proxy": {
+        "Communication": 78,
+        "Technical Depth": 14,
+        "Role Clarity": 33,
+        "Recruiter Readiness": 56
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 20.65,
+        "Retrieval Infra Owner": 17.99,
+        "ML Platform Owner": 29.02,
+        "LLM Product Owner": 23.66,
+        "Recruiter Workflow Owner": 34.84
+      }
+    },
+    {
+      "candidate_id": "CAND_0000009",
+      "rank": 41,
+      "score": 2.293339,
+      "reasoning": "11.0 years as Mechanical Engineer with strongest evidence in Product Shipping, Python Systems; profile also lists Snowflake, gRPC, JavaScript. Ranked here after balancing fit score 2.3, hireability signal 44, and concern: not currently marked open to work.",
+      "name": "Amit Shah",
+      "headline": "Mechanical Engineer | Driving business outcomes",
+      "location": "New York",
+      "country": "USA",
+      "years_experience": 11.0,
+      "current_title": "Mechanical Engineer",
+      "current_company": "Dunder Mifflin",
+      "salary_mid_lpa": 11.65,
+      "notice_days": 150,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 14,
+      "chemistry": 25,
+      "company_to_candidate": 56,
+      "candidate_to_company": 15,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 28.12,
+        "python": 38.31,
+        "llm": 0.0,
+        "shipping": 58.57
+      },
+      "behavior_score": 43.53,
+      "lexical_jd_score": 20.94,
+      "experience_score": 79.0,
+      "risk_penalty": 19.0,
+      "risk_flags": [
+        "not marked open",
+        "long notice",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Notice period is 150 days",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Snowflake",
+        "gRPC",
+        "JavaScript",
+        "OpenCV",
+        "Go",
+        "PowerPoint"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.53
+      },
+      "interview_proxy": {
+        "Communication": 80,
+        "Technical Depth": 7,
+        "Role Clarity": 30,
+        "Recruiter Readiness": 44
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 16.28,
+        "Retrieval Infra Owner": 13.73,
+        "ML Platform Owner": 19.97,
+        "LLM Product Owner": 12.2,
+        "Recruiter Workflow Owner": 28.24
+      }
+    },
+    {
+      "candidate_id": "CAND_0000049",
+      "rank": 42,
+      "score": 2.057358,
+      "reasoning": "11.8 years as Mechanical Engineer with strongest evidence in Product Shipping, Production ML; profile also lists TypeScript, Rust, Data Pipelines. Ranked here after balancing fit score 2.1, hireability signal 56, and concern: not currently marked open to work.",
+      "name": "Tanya Chowdary",
+      "headline": "Mechanical Engineer | Helping teams scale",
+      "location": "Berlin",
+      "country": "Germany",
+      "years_experience": 11.8,
+      "current_title": "Mechanical Engineer",
+      "current_company": "Wayne Enterprises",
+      "salary_mid_lpa": 15.85,
+      "notice_days": 120,
+      "preferred_work_mode": "onsite",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 12,
+      "chemistry": 30,
+      "company_to_candidate": 65,
+      "candidate_to_company": 17,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 46.31,
+        "python": 0.0,
+        "llm": 22.8,
+        "shipping": 56.58
+      },
+      "behavior_score": 55.75,
+      "lexical_jd_score": 21.11,
+      "experience_score": 68.33,
+      "risk_penalty": 21.0,
+      "risk_flags": [
+        "not marked open",
+        "long notice",
+        "verification gap",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "Production ML evidence",
+        "LinkedIn connected"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Notice period is 120 days",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "TypeScript",
+        "Rust",
+        "Data Pipelines",
+        "Apache Beam",
+        "GraphQL",
+        "Kubernetes"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": true,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.59
+      },
+      "interview_proxy": {
+        "Communication": 82,
+        "Technical Depth": 15,
+        "Role Clarity": 30,
+        "Recruiter Readiness": 56
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 13.99,
+        "Retrieval Infra Owner": 12.66,
+        "ML Platform Owner": 21.42,
+        "LLM Product Owner": 17.42,
+        "Recruiter Workflow Owner": 28.02
+      }
+    },
+    {
+      "candidate_id": "CAND_0000013",
+      "rank": 43,
+      "score": 0.202552,
+      "reasoning": "1.1 years as Civil Engineer with strongest evidence in Product Shipping, Production ML; profile also lists React, Redux, Vue.js. Ranked here after balancing fit score 0.2, hireability signal 58, and concern: experience is materially below the senior range.",
+      "name": "Pari Nair",
+      "headline": "Civil Engineer | Driving business outcomes",
+      "location": "Dubai",
+      "country": "UAE",
+      "years_experience": 1.1,
+      "current_title": "Civil Engineer",
+      "current_company": "Globex Inc",
+      "salary_mid_lpa": 9.85,
+      "notice_days": 30,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 5,
+      "chemistry": 34,
+      "company_to_candidate": 77,
+      "candidate_to_company": 19,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 22.8,
+        "production": 38.25,
+        "python": 21.83,
+        "llm": 0.0,
+        "shipping": 53.43
+      },
+      "behavior_score": 57.52,
+      "lexical_jd_score": 18.91,
+      "experience_score": 29.7,
+      "risk_penalty": 24.0,
+      "risk_flags": [
+        "verification gap",
+        "too junior",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "available/open-to-work signal"
+      ],
+      "concerns": [
+        "Experience is materially below the senior range",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "React",
+        "Redux",
+        "Vue.js",
+        "Six Sigma",
+        "Spring Boot",
+        "Spark",
+        "Data Pipelines",
+        "GCP",
+        "Flask",
+        "Snowflake"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": 35.6,
+        "open_to_work": true,
+        "response_rate": 0.28
+      },
+      "interview_proxy": {
+        "Communication": 74,
+        "Technical Depth": 15,
+        "Role Clarity": 29,
+        "Recruiter Readiness": 58
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 23.03,
+        "Retrieval Infra Owner": 13.47,
+        "ML Platform Owner": 24.24,
+        "LLM Product Owner": 13.59,
+        "Recruiter Workflow Owner": 30.57
+      }
+    },
+    {
+      "candidate_id": "CAND_0000003",
+      "rank": 44,
+      "score": 0.0,
+      "reasoning": "1.1 years as Customer Support with strongest evidence in Product Shipping, Production ML; profile also lists Angular, SEO, Excel. Ranked here after balancing fit score 0.0, hireability signal 45, and concern: not currently marked open to work.",
+      "name": "Yash Agarwal",
+      "headline": "Customer Support | 1.1+ yrs experience",
+      "location": "Austin",
+      "country": "USA",
+      "years_experience": 1.1,
+      "current_title": "Customer Support",
+      "current_company": "TCS",
+      "salary_mid_lpa": 14.65,
+      "notice_days": 150,
+      "preferred_work_mode": "hybrid",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 0,
+      "chemistry": 18,
+      "company_to_candidate": 63,
+      "candidate_to_company": 12,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 30.71,
+        "python": 22.8,
+        "llm": 0.0,
+        "shipping": 40.57
+      },
+      "behavior_score": 44.63,
+      "lexical_jd_score": 19.44,
+      "experience_score": 27.94,
+      "risk_penalty": 35,
+      "risk_flags": [
+        "not marked open",
+        "long notice",
+        "verification gap",
+        "too junior",
+        "consulting-heavy"
+      ],
+      "strengths": [
+        "some adjacent technical/product evidence"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Notice period is 150 days",
+        "Experience is materially below the senior range",
+        "Career evidence may be more services/consulting than product ML",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Angular",
+        "SEO",
+        "Excel",
+        "Accounting",
+        "Kubernetes",
+        "Databricks"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.46
+      },
+      "interview_proxy": {
+        "Communication": 68,
+        "Technical Depth": 8,
+        "Role Clarity": 23,
+        "Recruiter Readiness": 45
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 12.78,
+        "Retrieval Infra Owner": 11.31,
+        "ML Platform Owner": 16.98,
+        "LLM Product Owner": 9.73,
+        "Recruiter Workflow Owner": 20.99
+      }
+    },
+    {
+      "candidate_id": "CAND_0000006",
+      "rank": 45,
+      "score": 0.0,
+      "reasoning": "6.0 years as Business Analyst with strongest evidence in Product Shipping; profile also lists Content Writing, SEO, Redux. Ranked here after balancing fit score 0.0, hireability signal 40, and concern: activity dates need verification before outreach.",
+      "name": "Rajesh Desai",
+      "headline": "Business Analyst | 6.0+ yrs experience",
+      "location": "Austin",
+      "country": "USA",
+      "years_experience": 6.0,
+      "current_title": "Business Analyst",
+      "current_company": "Wayne Enterprises",
+      "salary_mid_lpa": 9.7,
+      "notice_days": 150,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 12,
+      "chemistry": 22,
+      "company_to_candidate": 63,
+      "candidate_to_company": 9,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 9.47,
+        "python": 20.82,
+        "llm": 0.0,
+        "shipping": 50.29
+      },
+      "behavior_score": 40.41,
+      "lexical_jd_score": 23.12,
+      "experience_score": 96.48,
+      "risk_penalty": 21.0,
+      "risk_flags": [
+        "timeline anomaly",
+        "not marked open",
+        "long notice",
+        "low response"
+      ],
+      "strengths": [
+        "Product Shipping evidence",
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Activity dates need verification before outreach",
+        "Not currently marked open to work",
+        "Notice period is 150 days",
+        "Recruiter response rate is weak"
+      ],
+      "skills": [
+        "Content Writing",
+        "SEO",
+        "Redux",
+        "SQL",
+        "Sales",
+        "gRPC",
+        "Django",
+        "Terraform"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.12
+      },
+      "interview_proxy": {
+        "Communication": 76,
+        "Technical Depth": 2,
+        "Role Clarity": 25,
+        "Recruiter Readiness": 40
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 9.65,
+        "Retrieval Infra Owner": 7.41,
+        "ML Platform Owner": 9.99,
+        "LLM Product Owner": 6.44,
+        "Recruiter Workflow Owner": 20.7
+      }
+    },
+    {
+      "candidate_id": "CAND_0000008",
+      "rank": 46,
+      "score": 0.0,
+      "reasoning": "3.6 years as Operations Manager with strongest evidence in Product Shipping, Production ML; profile also lists Java, BigQuery, Spark. Ranked here after balancing fit score 0.0, hireability signal 49, and concern: not currently marked open to work.",
+      "name": "Shaurya Chatterjee",
+      "headline": "Operations Manager | 3.6+ yrs experience",
+      "location": "Noida, Uttar Pradesh",
+      "country": "India",
+      "years_experience": 3.6,
+      "current_title": "Operations Manager",
+      "current_company": "Wipro",
+      "salary_mid_lpa": 11.9,
+      "notice_days": 90,
+      "preferred_work_mode": "onsite",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 8,
+      "chemistry": 33,
+      "company_to_candidate": 88,
+      "candidate_to_company": 14,
+      "group_scores": {
+        "retrieval": 8.41,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 27.36,
+        "python": 22.8,
+        "llm": 0.0,
+        "shipping": 43.48
+      },
+      "behavior_score": 49.12,
+      "lexical_jd_score": 19.36,
+      "experience_score": 73.58,
+      "risk_penalty": 22.0,
+      "risk_flags": [
+        "not marked open",
+        "verification gap",
+        "consulting-heavy",
+        "role mismatch"
+      ],
+      "strengths": [
+        "some adjacent technical/product evidence"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Career evidence may be more services/consulting than product ML",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Java",
+        "BigQuery",
+        "Spark",
+        "Accounting",
+        "Kubernetes",
+        "TypeScript",
+        "Rust",
+        "HTML"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.42
+      },
+      "interview_proxy": {
+        "Communication": 69,
+        "Technical Depth": 10,
+        "Role Clarity": 24,
+        "Recruiter Readiness": 49
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 14.48,
+        "Retrieval Infra Owner": 13.34,
+        "ML Platform Owner": 17.19,
+        "LLM Product Owner": 11.16,
+        "Recruiter Workflow Owner": 22.79
+      }
+    },
+    {
+      "candidate_id": "CAND_0000012",
+      "rank": 47,
+      "score": 0.0,
+      "reasoning": "1.1 years as Operations Manager with strongest evidence in Product Shipping, Production ML; profile also lists Azure, Airflow, AWS. Ranked here after balancing fit score 0.0, hireability signal 47, and concern: not currently marked open to work.",
+      "name": "Anjali Krishnan",
+      "headline": "Operations Manager | Driving business outcomes",
+      "location": "Chandigarh, Chandigarh",
+      "country": "India",
+      "years_experience": 1.1,
+      "current_title": "Operations Manager",
+      "current_company": "Stark Industries",
+      "salary_mid_lpa": 11.35,
+      "notice_days": 60,
+      "preferred_work_mode": "flexible",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 2,
+      "chemistry": 28,
+      "company_to_candidate": 94,
+      "candidate_to_company": 11,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 25.29,
+        "python": 0.0,
+        "llm": 0.0,
+        "shipping": 56.25
+      },
+      "behavior_score": 46.5,
+      "lexical_jd_score": 15.64,
+      "experience_score": 27.94,
+      "risk_penalty": 32.0,
+      "risk_flags": [
+        "not marked open",
+        "low response",
+        "verification gap",
+        "too junior",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Recruiter response rate is weak",
+        "Experience is materially below the senior range",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Azure",
+        "Airflow",
+        "AWS",
+        "gRPC",
+        "Vue.js",
+        "dbt",
+        "Agile",
+        "PowerPoint",
+        "Content Writing",
+        "Project Management"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.16
+      },
+      "interview_proxy": {
+        "Communication": 73,
+        "Technical Depth": 6,
+        "Role Clarity": 26,
+        "Recruiter Readiness": 47
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 10.18,
+        "Retrieval Infra Owner": 8.43,
+        "ML Platform Owner": 11.97,
+        "LLM Product Owner": 6.3,
+        "Recruiter Workflow Owner": 23.17
+      }
+    },
+    {
+      "candidate_id": "CAND_0000022",
+      "rank": 48,
+      "score": 0.0,
+      "reasoning": "1.1 years as Mechanical Engineer with strongest evidence in Product Shipping, Production ML; profile also lists OpenCV, Django, Terraform. Ranked here after balancing fit score 0.0, hireability signal 53, and concern: notice period is 150 days.",
+      "name": "Shaurya Chatterjee",
+      "headline": "Mechanical Engineer | Driving business outcomes",
+      "location": "Sydney",
+      "country": "Australia",
+      "years_experience": 1.1,
+      "current_title": "Mechanical Engineer",
+      "current_company": "Hooli",
+      "salary_mid_lpa": 10.4,
+      "notice_days": 150,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 1,
+      "chemistry": 23,
+      "company_to_candidate": 56,
+      "candidate_to_company": 17,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 39.94,
+        "python": 25.18,
+        "llm": 22.8,
+        "shipping": 42.85
+      },
+      "behavior_score": 53.36,
+      "lexical_jd_score": 21.45,
+      "experience_score": 29.7,
+      "risk_penalty": 29.0,
+      "risk_flags": [
+        "long notice",
+        "verification gap",
+        "too junior",
+        "role mismatch"
+      ],
+      "strengths": [
+        "available/open-to-work signal"
+      ],
+      "concerns": [
+        "Notice period is 150 days",
+        "Experience is materially below the senior range",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "OpenCV",
+        "Django",
+        "Terraform",
+        "Scrum",
+        "SQL",
+        "Java",
+        "AWS",
+        "Six Sigma"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": true,
+        "response_rate": 0.27
+      },
+      "interview_proxy": {
+        "Communication": 70,
+        "Technical Depth": 13,
+        "Role Clarity": 26,
+        "Recruiter Readiness": 53
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 15.0,
+        "Retrieval Infra Owner": 13.58,
+        "ML Platform Owner": 22.96,
+        "LLM Product Owner": 19.38,
+        "Recruiter Workflow Owner": 24.84
+      }
+    },
+    {
+      "candidate_id": "CAND_0000028",
+      "rank": 49,
+      "score": 0.0,
+      "reasoning": "1.1 years as Operations Manager with strongest evidence in Product Shipping, Production ML; profile also lists Snowflake, React, JavaScript. Ranked here after balancing fit score 0.0, hireability signal 59, and concern: not currently marked open to work.",
+      "name": "Rohan Krishnan",
+      "headline": "Operations Manager | Driving business outcomes",
+      "location": "Dubai",
+      "country": "UAE",
+      "years_experience": 1.1,
+      "current_title": "Operations Manager",
+      "current_company": "Wipro",
+      "salary_mid_lpa": 15.05,
+      "notice_days": 60,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 0,
+      "chemistry": 28,
+      "company_to_candidate": 81,
+      "candidate_to_company": 14,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 36.69,
+        "python": 28.12,
+        "llm": 0.0,
+        "shipping": 43.48
+      },
+      "behavior_score": 58.67,
+      "lexical_jd_score": 13.42,
+      "experience_score": 27.94,
+      "risk_penalty": 35,
+      "risk_flags": [
+        "not marked open",
+        "low response",
+        "too junior",
+        "consulting-heavy",
+        "role mismatch"
+      ],
+      "strengths": [
+        "verified contact channels"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Recruiter response rate is weak",
+        "Experience is materially below the senior range",
+        "Career evidence may be more services/consulting than product ML",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "Snowflake",
+        "React",
+        "JavaScript",
+        "Tailwind",
+        "REST APIs",
+        "Photoshop",
+        "Data Pipelines",
+        "Terraform",
+        "CNN",
+        "Content Writing"
+      ],
+      "verified": {
+        "email": true,
+        "phone": true,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.14
+      },
+      "interview_proxy": {
+        "Communication": 71,
+        "Technical Depth": 9,
+        "Role Clarity": 23,
+        "Recruiter Readiness": 59
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 14.89,
+        "Retrieval Infra Owner": 13.32,
+        "ML Platform Owner": 20.14,
+        "LLM Product Owner": 11.55,
+        "Recruiter Workflow Owner": 23.47
+      }
+    },
+    {
+      "candidate_id": "CAND_0000040",
+      "rank": 50,
+      "score": 0.0,
+      "reasoning": "1.6 years as Customer Support with strongest evidence in Product Shipping; profile also lists SQL, Spring Boot, Accounting. Ranked here after balancing fit score 0.0, hireability signal 46, and concern: not currently marked open to work.",
+      "name": "Dev Vora",
+      "headline": "Customer Support | Helping teams scale",
+      "location": "Kochi, Kerala",
+      "country": "India",
+      "years_experience": 1.6,
+      "current_title": "Customer Support",
+      "current_company": "Globex Inc",
+      "salary_mid_lpa": 7.9,
+      "notice_days": 90,
+      "preferred_work_mode": "remote",
+      "role_lane": "Product-Minded Shipper",
+      "potential": 2,
+      "chemistry": 27,
+      "company_to_candidate": 82,
+      "candidate_to_company": 12,
+      "group_scores": {
+        "retrieval": 0.0,
+        "vector": 0.0,
+        "ranking": 0.0,
+        "production": 24.94,
+        "python": 16.9,
+        "llm": 0.0,
+        "shipping": 48.45
+      },
+      "behavior_score": 45.91,
+      "lexical_jd_score": 19.42,
+      "experience_score": 28.56,
+      "risk_penalty": 28.0,
+      "risk_flags": [
+        "not marked open",
+        "verification gap",
+        "too junior",
+        "role mismatch"
+      ],
+      "strengths": [
+        "Product Shipping evidence"
+      ],
+      "concerns": [
+        "Not currently marked open to work",
+        "Experience is materially below the senior range",
+        "Current role is not close to AI engineering"
+      ],
+      "skills": [
+        "SQL",
+        "Spring Boot",
+        "Accounting",
+        "Rust",
+        "Redux",
+        "SAP",
+        "Weights & Biases",
+        "REST APIs",
+        "Spark"
+      ],
+      "verified": {
+        "email": true,
+        "phone": false,
+        "linkedin": false,
+        "github_activity": -1,
+        "open_to_work": false,
+        "response_rate": 0.46
+      },
+      "interview_proxy": {
+        "Communication": 71,
+        "Technical Depth": 6,
+        "Role Clarity": 25,
+        "Recruiter Readiness": 46
+      },
+      "team_lane_scores": {
+        "Ranking Core Owner": 11.7,
+        "Retrieval Infra Owner": 9.92,
+        "ML Platform Owner": 14.43,
+        "LLM Product Owner": 8.29,
+        "Recruiter Workflow Owner": 22.15
+      }
+    }
+  ],
+  "summary": {
+    "candidate_count_ranked": 50,
+    "dashboard_count": 50,
+    "top_score": 59.553353,
+    "average_top10": 36.8687
+  }
+}

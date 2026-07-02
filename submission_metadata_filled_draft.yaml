@@ -1,0 +1,13 @@
+team_name: "Redrob Scout Arena"
+participant_id: "team_your_registered_id"
+submission_file: "outputs/team_your_registered_id.csv"
+approach_summary: >
+  CPU-only hybrid candidate ranker using schema-aware feature extraction, local TF-IDF JD matching,
+  role-evidence scoring, Redrob behavioral signals, both-ways fit, risk penalties, and grounded reasoning.
+ai_tools_used: "ChatGPT used for code generation assistance and documentation drafting. No hosted AI API is used during ranking."
+ranking_runtime_environment: "Python standard library, CPU only, no network calls."
+requires_network_during_ranking: false
+requires_gpu_during_ranking: false
+external_api_calls_during_ranking: false
+sandbox_link: "TODO: add hosted demo link"
+github_repo: "TODO: add repository link"

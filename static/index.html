@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Redrob Scout Arena</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="aurora aurora-a"></div>
+  <div class="aurora aurora-b"></div>
+  <div class="pitch-lines"></div>
+
+  <header class="shell topbar">
+    <div class="brand">
+      <div class="crest"><span>R</span></div>
+      <div>
+        <p class="eyebrow">Redrob AI · Talent Intelligence</p>
+        <h1>Scout Arena</h1>
+      </div>
+    </div>
+    <nav class="tabs" aria-label="sections">
+      <button class="tab is-active" data-tab="board">Scout Board</button>
+      <button class="tab" data-tab="dossier">Dossier</button>
+      <button class="tab" data-tab="team">Team Builder</button>
+      <button class="tab" data-tab="model">Model Room</button>
+      <a class="export" href="/download/csv">Export CSV</a>
+    </nav>
+  </header>
+
+  <main class="shell">
+    <section class="hero">
+      <article class="hero-panel glass">
+        <p class="eyebrow">Target Role</p>
+        <h2>Senior AI Engineer — Founding Team</h2>
+        <p>Ranking engine focused on embeddings, retrieval, ranking systems, vector infrastructure, production Python, evaluation frameworks, and product shipping judgment.</p>
+      </article>
+      <article class="kpi glass"><span>Top OVR</span><strong id="topOvr">--</strong><small>calibrated fit</small></article>
+      <article class="kpi glass"><span>Avg Top 10</span><strong id="avgTop10">--</strong><small>top-rank focus</small></article>
+      <article class="kpi glass"><span>Mode</span><strong>CPU</strong><small>offline ranker</small></article>
+    </section>
+
+    <section id="tab-board" class="panel is-active">
+      <div class="board-layout">
+        <aside class="glass roster-card">
+          <div class="section-head">
+            <div><p class="eyebrow">Live Ranked Board</p><h2>Top Candidates</h2></div>
+            <div class="count" id="candidateCount">--</div>
+          </div>
+          <input id="search" class="search" placeholder="Search candidate, skill, role lane..." />
+          <div id="roster" class="roster"></div>
+        </aside>
+
+        <section class="focus-zone">
+          <div class="focus-grid">
+            <article class="elite-card" id="eliteCard">
+              <div class="card-frame"></div>
+              <div class="card-top">
+                <div><div class="ovr" id="ovr">--</div><span>OVR</span></div>
+                <div class="card-badge" id="roleLane">Role Lane</div>
+              </div>
+              <div class="portrait" id="portrait">?</div>
+              <h2 id="candName">Select a candidate</h2>
+              <p id="headline">The strongest match loads here.</p>
+              <div class="facts">
+                <span id="factExp">-- yrs</span>
+                <span id="factLoc">--</span>
+                <span id="factSalary">-- LPA</span>
+              </div>
+              <div class="hex-stats" id="cardStats"></div>
+            </article>
+
+            <article class="glass scout-report">
+              <div class="section-head tight">
+                <div><p class="eyebrow">Recruiter Read</p><h2 id="reportName">Scout Report</h2></div>
+                <span class="rank-pill" id="rankPill">Rank --</span>
+              </div>
+              <p class="reason" id="reason">Select a ranked profile to see the grounded model explanation.</p>
+              <div class="dual-fit">
+                <div class="fit-row"><span>Candidate → Redrob</span><b id="c2rText">--</b></div>
+                <div class="meter"><i id="c2rBar"></i></div>
+                <div class="fit-row"><span>Redrob → Candidate</span><b id="r2cText">--</b></div>
+                <div class="meter"><i id="r2cBar"></i></div>
+              </div>
+              <div id="signalChips" class="chips"></div>
+            </article>
+          </div>
+
+          <article class="glass attributes">
+            <div class="section-head tight"><div><p class="eyebrow">Attribute Matrix</p><h2>Fit Breakdown</h2></div><button id="goDossier" class="ghost-btn">Open dossier</button></div>
+            <div id="attributes"></div>
+          </article>
+        </section>
+      </div>
+    </section>
+
+    <section id="tab-dossier" class="panel">
+      <div class="dossier-grid">
+        <article class="glass dossier-main">
+          <p class="eyebrow">Candidate Dossier</p>
+          <h2 id="dossierTitle">Select a candidate</h2>
+          <div id="dossierFacts" class="dossier-facts"></div>
+          <h3>Strengths</h3><div id="strengths" class="chips"></div>
+          <h3>Concerns to Probe</h3><div id="concerns" class="chips warning-chips"></div>
+          <h3>Skill Surface</h3><div id="skills" class="skills"></div>
+        </article>
+        <article class="glass interview-card">
+          <p class="eyebrow">Small Interview Proxy</p>
+          <h2>2-Minute Screen</h2>
+          <p class="muted">This is a pre-interview guide generated from profile evidence and platform signals.</p>
+          <div id="interview" class="score-list"></div>
+        </article>
+        <article class="glass proof-card">
+          <p class="eyebrow">Consent-Based Proof</p>
+          <h2>Verification Signals</h2>
+          <div id="proof" class="proof-list"></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="tab-team" class="panel">
+      <div class="team-grid">
+        <article class="glass budget-console">
+          <p class="eyebrow">Project-Specific Hiring</p>
+          <h2>Budget Team Builder</h2>
+          <label>Total budget <b id="budgetVal">180</b> LPA</label>
+          <input id="budget" type="range" min="60" max="320" step="10" value="180" />
+          <div class="chem-card"><span>Team Chemistry</span><strong id="chemScore">--</strong><small>coverage · affordability · availability</small></div>
+          <p class="muted">The builder chooses complementary ownership lanes for Redrob’s intelligence layer.</p>
+        </article>
+        <article class="arena" id="teamArena"></article>
+      </div>
+    </section>
+
+    <section id="tab-model" class="panel">
+      <div class="model-grid">
+        <article class="glass model-card big">
+          <p class="eyebrow">Architecture</p>
+          <h2>Hybrid Ranker</h2>
+          <div class="flow">
+            <span>Candidate JSONL</span><i>→</i><span>Schema Parser</span><i>→</i><span>Evidence Features</span><i>→</i><span>TF-IDF JD Match</span><i>→</i><span>Signal Layer</span><i>→</i><span>Risk Penalty</span><i>→</i><span>Top-100 CSV</span>
+          </div>
+        </article>
+        <article class="glass model-card"><h3>Scored Evidence</h3><p>Retrieval, vector search, ranking evaluation, production ML, Python systems, LLM systems, product shipping, experience fit, and Redrob behavioral signals.</p></article>
+        <article class="glass model-card"><h3>Submission Discipline</h3><p>Local deterministic Python, no API calls, no GPU, generated reasoning grounded in candidate fields, validator included.</p></article>
+        <article class="glass model-card"><h3>Why It Works</h3><p>Career history receives more weight than keyword-only skill lists, so the system rewards real production evidence and penalizes weak or suspicious profiles.</p></article>
+      </div>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
